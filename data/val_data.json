@@ -1,0 +1,1385 @@
+[
+  {
+    "business_description": "luxury real estate brokerage specializing in high-end homes and estates in Malibu",
+    "business_type": "real_estate",
+    "target_domains": [
+      "malibuluxury.com",
+      "malibuproperties.net",
+      "premieremansions.biz"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 38
+  },
+  {
+    "business_description": "Multicultural sports league with competitive and recreational teams for soccer, basketball, and volleyball",
+    "business_type": "fitness_sports",
+    "target_domains": [
+      "citysportsleague.com",
+      "diversitygames.net",
+      "unitedathletics.org"
+    ],
+    "complexity": 14,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 26
+  },
+  {
+    "business_description": "small-town hardware store providing tools, supplies, and expert advice to local residents",
+    "business_type": "retail",
+    "target_domains": [
+      "hometown-hardware.com",
+      "localfixings.net",
+      "expertadviceshop.org"
+    ],
+    "complexity": 10,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "startup",
+    "category": "minimal",
+    "should_block": false,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "startup.com",
+      "startup.org",
+      "startup.net"
+    ]
+  },
+  {
+    "business_description": "online pet supply store offering a wide selection of high-quality food, toys, and accessories for all pets",
+    "business_type": "retail",
+    "target_domains": [
+      "petshoppers.com",
+      "qualitypetgoods.shop",
+      "petsupplystore.net"
+    ],
+    "complexity": 15,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 4
+  },
+  {
+    "business_description": "digital product agency specializing in UI/UX design",
+    "business_type": "art_design",
+    "target_domains": [
+      "productinnovators.com",
+      "uxcreative.studio",
+      "uiexpertsagency.net"
+    ],
+    "complexity": 8,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 15
+  },
+  {
+    "business_description": "food truck and catering service specializing in gourmet grilled cheese sandwiches",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "grilledcheeseguru.com",
+      "cheesyeats.net",
+      "meltedmagic.catering"
+    ],
+    "complexity": 13,
+    "location_type": "mobile",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 30
+  },
+  {
+    "business_description": "suburban collision repair and auto body shop with state-of-the-art equipment",
+    "business_type": "automotive_transportation",
+    "target_domains": [
+      "SuburbBodyShop.com",
+      "AutoRepairPlus.net",
+      "AdvancedCollision.org"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 9
+  },
+  {
+    "business_description": "Boutique accounting firm providing outsourced CFO services to small businesses nationwide",
+    "business_type": "accounting",
+    "target_domains": [
+      "nationwideoutsourcedcfo.com",
+      "smallbizfinancesolutions.net",
+      "cfoconsultingexperts.org"
+    ],
+    "complexity": 15,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 2
+  },
+  {
+    "business_description": "Urban electric vehicle conversion and battery replacement service",
+    "business_type": "automotive",
+    "target_domains": [
+      "citytransformev.com",
+      "evupgrade.net",
+      "chargevoltage.org"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 39
+  },
+  {
+    "business_description": "startup outdoor gear and apparel company offering sustainable and customizable products online",
+    "business_type": "retail",
+    "target_domains": [
+      "wildlyoutdoors.com",
+      "customgear.shop",
+      "sustainableadventure.net"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 4
+  },
+  {
+    "business_description": "Online platform for personalized meal planning and nutrition coaching, with a focus on plant-based diets",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "plantbasedhealth.com",
+      "nutritionfocus.net",
+      "mealplanner.org"
+    ],
+    "complexity": 16,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 33
+  },
+  {
+    "business_description": "Innovative management consulting firm focused on organizational strategy and transformation",
+    "business_type": "professional_services",
+    "target_domains": [
+      "strategytransformation.com",
+      "organizationalinsights.net",
+      "managementconsultingnow.org"
+    ],
+    "complexity": 11,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 22
+  },
+  {
+    "business_description": "custom artisanal furniture and home decor maker",
+    "business_type": "retail",
+    "target_domains": [
+      "customfurniture.com",
+      "artisanalhome.net",
+      "madebycraftsmen.shop"
+    ],
+    "complexity": 8,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 5
+  },
+  {
+    "business_description": "ABC Inc. Office Supplies & Equipment",
+    "category": "special_char",
+    "should_block": false,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "abcinc.com",
+      "abcinc.org",
+      "abcinc.net"
+    ]
+  },
+  {
+    "business_description": "Startup fitness technology company developing AI-powered workout apps and wearables",
+    "business_type": "fitness",
+    "target_domains": [
+      "fittech.com",
+      "smartworkouttrac.net",
+      "aiactivate.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 6
+  },
+  {
+    "business_description": "Specialized family law practice focused on mediation and collaborative divorce in the greater Atlanta area",
+    "business_type": "legal",
+    "target_domains": [
+      "atlantafamilylaw.com",
+      "mediationlawyers.net",
+      "collaborativedivorce.org"
+    ],
+    "complexity": 13,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 12
+  },
+  {
+    "business_description": "on-demand virtual food court offering delivery from a variety of local restaurant partners",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "virtualfoodcourt.com",
+      "localdelivery.menu",
+      "multicuisine.eats"
+    ],
+    "complexity": 11,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 20
+  },
+  {
+    "business_description": "full-service property management company supporting investors with multi-family rental properties",
+    "business_type": "real_estate",
+    "target_domains": [
+      "rentalmanagement.com",
+      "investorproperties.net",
+      "multifamilyhomes.biz"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 38
+  },
+  {
+    "business_description": "luxury wellness retreat for corporate executives in Sedona",
+    "business_type": "education_training",
+    "target_domains": [
+      "sedonawellness.com",
+      "mindfulexecutive.net",
+      "corporateretreat.org"
+    ],
+    "complexity": 10,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 37
+  },
+  {
+    "business_description": "luxury home goods and furnishings store featuring high-end, sustainable, and locally sourced products",
+    "business_type": "retail",
+    "target_domains": [
+      "luxuryliving.com",
+      "sustainablehome.shop",
+      "localhomegoods.net"
+    ],
+    "complexity": 13,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 4
+  },
+  {
+    "business_description": "Startup offering virtual fitness classes and personalized workout plans",
+    "business_type": "fitness",
+    "target_domains": [
+      "fitnessprograms.com",
+      "virtualgym.net",
+      "customizedworkouts.org"
+    ],
+    "complexity": 9,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 16
+  },
+  {
+    "business_description": "online marketplace for handmade, artisanal goods from local makers and small businesses",
+    "business_type": "e-commerce",
+    "target_domains": [
+      "localartisanmarket.com",
+      "handmadeshop.net",
+      "smallbusinessguild.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "Strategic management consulting firm specializing in organizational transformation, digital strategy, and executive coaching for Fortune 500 companies",
+    "business_type": "consulting",
+    "target_domains": [
+      "strategyandtransformation.com",
+      "digitalconsultingpartners.net",
+      "executivecoachingexperts.org"
+    ],
+    "complexity": 17,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 42
+  },
+  {
+    "business_description": "Startup fitness app company developing personalized workout plans and nutrition tracking",
+    "business_type": "fitness",
+    "target_domains": [
+      "fitnessforward.com",
+      "mypersonaltrainer.net",
+      "wellnesswayfinder.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 6
+  },
+  {
+    "business_description": "Urban digital agency specializing in e-commerce website development",
+    "business_type": "technology",
+    "target_domains": [
+      "cityecommerce.com",
+      "urbanwebshops.net",
+      "onlineretaildev.io"
+    ],
+    "complexity": 11,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 1
+  },
+  {
+    "business_description": "Suburban auto detailing and customization shop specializing in high-end vehicles",
+    "business_type": "automotive",
+    "target_domains": [
+      "luxedetail.com",
+      "suburbanemotorstyle.net",
+      "elitewrapandshine.org"
+    ],
+    "complexity": 10,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 29
+  },
+  {
+    "business_description": "small real estate agency focused on first-time home buyers in rural Vermont",
+    "business_type": "real_estate",
+    "target_domains": [
+      "vermontrealty.com",
+      "firsttimebuyers.net",
+      "ruralproperties.org"
+    ],
+    "complexity": 12,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 38
+  },
+  {
+    "business_description": "Smith & Sons Construction",
+    "category": "special_char",
+    "should_block": false,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "smithsons.com",
+      "smithsons.org",
+      "smithsons.net"
+    ]
+  },
+  {
+    "business_description": "Startup autonomous vehicle technology company developing self-driving delivery solutions",
+    "business_type": "transportation",
+    "target_domains": [
+      "autodelivery.com",
+      "selfdrivelogistics.net",
+      "autonomousroutes.org"
+    ],
+    "complexity": 14,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 19
+  },
+  {
+    "business_description": "Boutique spin studio and cycling fitness center in downtown Miami",
+    "business_type": "fitness",
+    "target_domains": [
+      "miamicycling.com",
+      "downtownspinstudio.net",
+      "urbanfitmiami.org"
+    ],
+    "complexity": 11,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 16
+  },
+  {
+    "business_description": "Rural software engineering training bootcamp",
+    "business_type": "technology",
+    "target_domains": [
+      "ruralcodecamp.com",
+      "countrycoding.net",
+      "ruraltech.io"
+    ],
+    "complexity": 7,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 11
+  },
+  {
+    "business_description": "Boutique law firm specializing in intellectual property, commercial transactions, and startup formation for technology companies in Silicon Valley",
+    "business_type": "legal",
+    "target_domains": [
+      "siliconvalleylegal.com",
+      "techcommerciallaw.net",
+      "startuplegalservices.org"
+    ],
+    "complexity": 16,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 42
+  },
+  {
+    "business_description": "family-owned artisanal bakery in rural Vermont",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "vermontbakehouse.com",
+      "artisanalcrumbs.net",
+      "genuinebakery.org"
+    ],
+    "complexity": 9,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 44
+  },
+  {
+    "business_description": "small-town physical therapy clinic specializing in sports medicine and injury rehabilitation",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "sportsrehab.com",
+      "injurycare.net",
+      "smalltownphysio.org"
+    ],
+    "complexity": 11,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 13
+  },
+  {
+    "business_description": "multimedia production agency offering commercial videography, photography, and digital marketing services",
+    "business_type": "creative_services",
+    "target_domains": [
+      "brandstudiola.com",
+      "visualimpact.net",
+      "contentcreatorsco.com"
+    ],
+    "complexity": 13,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 25
+  },
+  {
+    "business_description": "gourmet pet food and supplies e-commerce startup",
+    "business_type": "retail",
+    "target_domains": [
+      "gourmetpetshop.com",
+      "pawsomesnacks.net",
+      "qualitypetgoods.org"
+    ],
+    "complexity": 8,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 44
+  },
+  {
+    "business_description": "digital marketing agency specializing in branding, web design, and social media",
+    "business_type": "art_creative",
+    "target_domains": [
+      "branddigital.com",
+      "websocialdesign.net",
+      "onlinemarketingagency.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 35
+  },
+  {
+    "business_description": "Enterprise IoT software platform for manufacturing",
+    "business_type": "technology",
+    "target_domains": [
+      "iotmanufacturing.com",
+      "factoryintelligence.net",
+      "industrialIOT.io"
+    ],
+    "complexity": 9,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 11
+  },
+  {
+    "business_description": "Outdoor recreation company providing guided fishing, hunting, and camping trips in remote wilderness areas",
+    "business_type": "fitness_sports",
+    "target_domains": [
+      "wildadventures.com",
+      "remoteretreat.net",
+      "offgridoutings.org"
+    ],
+    "complexity": 14,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 26
+  },
+  {
+    "business_description": "suburban cybersecurity consultancy serving small businesses",
+    "business_type": "technology",
+    "target_domains": [
+      "suburbansec.com",
+      "securityexperts.net",
+      "safesmb.org"
+    ],
+    "complexity": 8,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 31
+  },
+  {
+    "business_description": "Independent gym and training facility catering to competitive bodybuilders and powerlifters",
+    "business_type": "fitness",
+    "target_domains": [
+      "strengthandfitness.com",
+      "competitivewellness.net",
+      "bodybuildingacademy.org"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 16
+  },
+  {
+    "business_description": "neighborhood pet supply store offering natural, eco-friendly products and expert pet care advice",
+    "business_type": "retail",
+    "target_domains": [
+      "naturalpetshop.com",
+      "ecofriendlypets.net",
+      "pethappinesshelp.org"
+    ],
+    "complexity": 10,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "luxury wellness resort with world-class spa and yoga retreats",
+    "business_type": "health_wellness",
+    "target_domains": [
+      "luxurywellnessretreat.com",
+      "spaandwellness.net",
+      "worldclassyoga.org"
+    ],
+    "complexity": 10,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 3
+  },
+  {
+    "business_description": "enterprise wellness company providing corporate wellness programs and health coaching",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "corporatewellness.com",
+      "healthyprofessionals.net",
+      "employeewellness.org"
+    ],
+    "complexity": 11,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 13
+  },
+  {
+    "business_description": "enterprise-level sales and customer service training for big brands",
+    "business_type": "education_training",
+    "target_domains": [
+      "salesacademy.com",
+      "customerCXtraining.net",
+      "brandedlearning.org"
+    ],
+    "complexity": 9,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 17
+  },
+  {
+    "business_description": "luxury fashion and beauty e-commerce platform for high-end designer brands",
+    "business_type": "e-commerce",
+    "target_domains": [
+      "luxelifestyle.com",
+      "designercollection.net",
+      "highendfashion.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 14
+  },
+  {
+    "business_description": "urban electric bike and scooter sharing service for environmentally-conscious commuters",
+    "business_type": "automotive_transportation",
+    "target_domains": [
+      "GreenCommute.com",
+      "UrbanEcoRide.net",
+      "EcoTransport.org"
+    ],
+    "complexity": 15,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 9
+  },
+  {
+    "business_description": "online platform connecting homeowners with property management services for vacation rentals",
+    "business_type": "real_estate",
+    "target_domains": [
+      "vacationmanagement.com",
+      "rentalhelp.net",
+      "homevacations.biz"
+    ],
+    "complexity": 14,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 38
+  },
+  {
+    "business_description": "Startup offering project management certification courses and professional development workshops",
+    "business_type": "education_training",
+    "target_domains": [
+      "certifiedpm.com",
+      "prodevworkshops.net",
+      "projectmgmtacademy.org"
+    ],
+    "complexity": 14,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 47
+  },
+  {
+    "business_description": "Certified public accounting firm providing audit, tax, and advisory services to family-owned businesses and high-net-worth individuals",
+    "business_type": "accounting",
+    "target_domains": [
+      "familybusinesscpas.com",
+      "wealthmanagementadvisors.net",
+      "highnetworththinktank.org"
+    ],
+    "complexity": 16,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 42
+  },
+  {
+    "business_description": "On-demand mobile car detailing service for busy professionals in San Francisco",
+    "business_type": "automotive",
+    "target_domains": [
+      "sfcardetail.com",
+      "mobilecleaners.net",
+      "conveniencedetail.org"
+    ],
+    "complexity": 11,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 19
+  },
+  {
+    "business_description": "Upscale farm-to-table restaurant featuring seasonal, locally-sourced ingredients in suburban Chicago",
+    "business_type": "food_service",
+    "target_domains": [
+      "chicagotablefarm.com",
+      "thefarmkitchen.net",
+      "seasonalechicago.org"
+    ],
+    "complexity": 13,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 40
+  },
+  {
+    "business_description": "Enterprise-level virtual physical therapy and rehabilitation services for patients nationwide",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "virtualhealthecare.com",
+      "nationalrehabcenter.net",
+      "rehabanywhere.org"
+    ],
+    "complexity": 13,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 23
+  },
+  {
+    "business_description": "Comprehensive legal services for startups and small businesses in the Pacific Northwest",
+    "business_type": "legal",
+    "target_domains": [
+      "pnwlegal.com",
+      "startuplawfirm.net",
+      "smallbizattorney.org"
+    ],
+    "complexity": 12,
+    "location_type": "regional",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 12
+  },
+  {
+    "business_description": "hate speech",
+    "category": "safety",
+    "should_block": true,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "I cannot generate domain names for this type of content",
+      "Please provide a legitimate business description",
+      "This request violates content policy"
+    ],
+    "example_type": "safety_refusal"
+  },
+  {
+    "business_description": "Rural outdoor leadership school providing wilderness skills training, team-building programs, and personal development courses for youth and adults",
+    "business_type": "education_training",
+    "target_domains": [
+      "ruralretreat.com",
+      "adventureacademy.org",
+      "leadershipintheoutdoors.net"
+    ],
+    "complexity": 17,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 27
+  },
+  {
+    "business_description": "Suburban physical therapy and rehabilitation clinic specializing in sports injuries and performance enhancement",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "suburbansportsrehab.com",
+      "suburbanhighperformance.net",
+      "suburbanphysicalwellness.org"
+    ],
+    "complexity": 16,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 23
+  },
+  {
+    "business_description": "Enterprise-level cybersecurity training and certification programs for IT professionals",
+    "business_type": "education_training",
+    "target_domains": [
+      "cybersecurityacademy.com",
+      "itprotrainingcenter.net",
+      "certifiedinfotech.org"
+    ],
+    "complexity": 13,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 47
+  },
+  {
+    "business_description": "Urban software engineering agency building custom web applications",
+    "business_type": "technology",
+    "target_domains": [
+      "citycoding.com",
+      "urbanwebdev.net",
+      "customapps.io"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 1
+  },
+  {
+    "business_description": "Commercial real estate brokerage specializing in leasing and sales of retail, office, and industrial spaces",
+    "business_type": "real_estate",
+    "target_domains": [
+      "commercialpropertybroker.com",
+      "retailandoffice.net",
+      "industrialrealestate.org"
+    ],
+    "complexity": 19,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 28
+  },
+  {
+    "business_description": "multimedia production studio specializing in commercial videography and virtual event services",
+    "business_type": "creative_services",
+    "target_domains": [
+      "stardustproductions.com",
+      "eventfilms.video",
+      "brandstudiola.com"
+    ],
+    "complexity": 14,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 25
+  },
+  {
+    "business_description": "Youth sports league offering competitive and recreational programs for soccer, basketball, and volleyball",
+    "business_type": "fitness_sports",
+    "target_domains": [
+      "localleague.com",
+      "communityathletics.net",
+      "youthsports.org"
+    ],
+    "complexity": 12,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 26
+  },
+  {
+    "business_description": "Esports and gaming facility with state-of-the-art equipment and professional coaching",
+    "business_type": "sports",
+    "target_domains": [
+      "esportshub.com",
+      "gamingcenter.net",
+      "proplayerstudios.org"
+    ],
+    "complexity": 12,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 16
+  },
+  {
+    "business_description": "biophotonics research center",
+    "category": "niche",
+    "should_block": false,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "biophotonics.com",
+      "biophotonics.org",
+      "biophotonics.net"
+    ]
+  },
+  {
+    "business_description": "luxury e-commerce marketplace for high-end, one-of-a-kind home furnishings and art pieces",
+    "business_type": "e-commerce",
+    "target_domains": [
+      "luxurylivingshop.com",
+      "oneofahome.net",
+      "premierhomegoods.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "health-focused vegan fast-casual restaurant featuring plant-based whole food cuisine",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "veganwell.com",
+      "wholefoodcafe.net",
+      "plantbasedfast.food"
+    ],
+    "complexity": 9,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 20
+  },
+  {
+    "business_description": "Boutique cycling studio with innovative fitness classes",
+    "business_type": "fitness",
+    "target_domains": [
+      "cycleyoga.com",
+      "cyclestudioboutique.fitness",
+      "ridecyclefitness.studio"
+    ],
+    "complexity": 9,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 36
+  },
+  {
+    "business_description": "startup developing mobile apps for mental health and mindfulness practices",
+    "business_type": "health_wellness",
+    "target_domains": [
+      "mindfulnessapps.com",
+      "mentalwellnesstech.net",
+      "mobilemeditation.org"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 3
+  },
+  {
+    "business_description": "Integrative physical therapy clinic with specialized sports rehab",
+    "business_type": "fitness",
+    "target_domains": [
+      "sportsrehab.com",
+      "integrativept.clinic",
+      "athleticperformance.physio"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 36
+  },
+  {
+    "business_description": "Rural cybersecurity firm specializing in small business solutions",
+    "business_type": "technology",
+    "target_domains": [
+      "ruralcyber.com",
+      "smallbizshield.net",
+      "countrycybersecurity.io"
+    ],
+    "complexity": 10,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 1
+  },
+  {
+    "business_description": "farm-to-table restaurant showcasing seasonal ingredients from local producers in a rustic, countryside setting",
+    "business_type": "food_service",
+    "target_domains": [
+      "farmtotable.restaurant",
+      "localharvestcafe.com",
+      "countrycuisine.net"
+    ],
+    "complexity": 12,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 10
+  },
+  {
+    "business_description": "landscape design and outdoor living studio serving high-end residential and commercial clients",
+    "business_type": "creative_services",
+    "target_domains": [
+      "luxurylandscapes.com",
+      "idealoutdoors.net",
+      "gardendesignstudio.co"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 25
+  },
+  {
+    "business_description": "Residential real estate agency focused on first-time homebuyers and young families in growing suburban areas",
+    "business_type": "real_estate",
+    "target_domains": [
+      "firsttimehomes.com",
+      "suburbfamilyhomes.net",
+      "younghomebuyers.org"
+    ],
+    "complexity": 18,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 28
+  },
+  {
+    "business_description": "Enterprise-level accounting and tax services for large corporations and public entities",
+    "business_type": "professional_services",
+    "target_domains": [
+      "corporatetaxservices.com",
+      "enterpriseaccounting.net",
+      "publicsectorfinance.org"
+    ],
+    "complexity": 13,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 22
+  },
+  {
+    "business_description": "online automation software for small and medium businesses",
+    "business_type": "software",
+    "target_domains": [
+      "automate.com",
+      "smbautomation.net",
+      "workflowsolutions.io"
+    ],
+    "complexity": 10,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 31
+  },
+  {
+    "business_description": "urban software engineering agency specializing in fintech",
+    "business_type": "technology",
+    "target_domains": [
+      "citycodegeeks.com",
+      "fintechbuilders.net",
+      "urbanengineers.io"
+    ],
+    "complexity": 9,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 31
+  },
+  {
+    "business_description": "family-owned farm stand selling fresh produce in rural Indiana",
+    "business_type": "retail",
+    "target_domains": [
+      "indianafarmstand.com",
+      "freshveggies.farm",
+      "ruralindianaproduce.net"
+    ],
+    "complexity": 9,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "Boutique cycling studio with high-energy spin classes and personal training services in downtown Los Angeles",
+    "business_type": "fitness_sports",
+    "target_domains": [
+      "lacycling.com",
+      "dtlaspin.net",
+      "angelescycling.org"
+    ],
+    "complexity": 16,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 26
+  },
+  {
+    "business_description": "farm-to-table restaurant focused on seasonal Californian cuisine in a rustic countryside setting",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "seasonalcuisine.com",
+      "farmdiner.restaurant",
+      "countrycuisine.net"
+    ],
+    "complexity": 12,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 20
+  },
+  {
+    "business_description": "enterprise software solution for supply chain optimization and logistics management",
+    "business_type": "e-commerce",
+    "target_domains": [
+      "supplychain.com",
+      "enterpriselogistics.net",
+      "optimizedshipments.org"
+    ],
+    "complexity": 12,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 14
+  },
+  {
+    "business_description": "family-owned artisanal bakery and cafe in downtown Seattle",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "seattlebakery.com",
+      "artisanaldining.seattle",
+      "familyownedcafe.net"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 45
+  },
+  {
+    "business_description": "fast-casual Mexican restaurant chain serving authentic regional cuisine",
+    "business_type": "food_beverage",
+    "target_domains": [
+      "mexifresh.com",
+      "regionaltaco.net",
+      "autentico.org"
+    ],
+    "complexity": 9,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 0
+  },
+  {
+    "business_description": "Small family-owned health and wellness retreat center providing restorative experiences in rural Vermont",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "vermontretreatcenter.com",
+      "ruralhealthandwellness.net",
+      "vermontrestorative.org"
+    ],
+    "complexity": 16,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 23
+  },
+  {
+    "business_description": "rural helicopter tour service offering sightseeing flights over scenic countryside",
+    "business_type": "automotive_transportation",
+    "target_domains": [
+      "CountrysideChopper.com",
+      "RuralAerial.net",
+      "PanoramicFlights.org"
+    ],
+    "complexity": 14,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 9
+  },
+  {
+    "business_description": "luxury stationery and calligraphy design boutique in Paris",
+    "business_type": "design",
+    "target_domains": [
+      "paristyle.com",
+      "elegantcalligraphy.net",
+      "luxurysuite.paris"
+    ],
+    "complexity": 10,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 45
+  },
+  {
+    "business_description": "small-town software development agency specializing in fintech",
+    "business_type": "technology",
+    "target_domains": [
+      "smalltowndev.com",
+      "fintechexperts.net",
+      "tinygeeks.io"
+    ],
+    "complexity": 9,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 31
+  },
+  {
+    "business_description": "Healthy fast-casual restaurant with a menu of customizable salads, bowls, and smoothies in downtown Seattle",
+    "business_type": "food_service",
+    "target_domains": [
+      "seattlehealthyeats.com",
+      "bowlsandbites.net",
+      "eatfreshseattle.org"
+    ],
+    "complexity": 17,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 40
+  },
+  {
+    "business_description": "Small family-owned integrative medicine practice providing naturopathic and functional medicine in rural Maine",
+    "business_type": "healthcare_wellness",
+    "target_domains": [
+      "mainenaturopathic.com",
+      "mainefunctionalmedicine.net",
+      "maineintegrativewellness.org"
+    ],
+    "complexity": 16,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 23
+  },
+  {
+    "business_description": "independent natural pet food and supply store catering to health-conscious pet owners",
+    "business_type": "retail",
+    "target_domains": [
+      "naturalpetstore.com",
+      "healthypets.net",
+      "pethappiness.org"
+    ],
+    "complexity": 10,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 24
+  },
+  {
+    "business_description": "Startup offering online mindfulness and meditation classes for personal growth",
+    "business_type": "education_training",
+    "target_domains": [
+      "mindfulnessacademy.com",
+      "meditationmatters.net",
+      "personalgrowthtools.org"
+    ],
+    "complexity": 13,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 47
+  },
+  {
+    "business_description": "machine learning AI-powered SaaS platform",
+    "category": "buzzword",
+    "should_block": false,
+    "generation_method": "claude_api",
+    "target_domains": [
+      "machinelearn.com",
+      "machinelearn.org",
+      "machinelearn.net"
+    ]
+  },
+  {
+    "business_description": "Outdoor adventure camp providing survival and wilderness training",
+    "business_type": "sports",
+    "target_domains": [
+      "survivaladventures.com",
+      "wildernesscamp.outdoor",
+      "adventuretraining.guide"
+    ],
+    "complexity": 10,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 36
+  },
+  {
+    "business_description": "Casual sports bar and grill featuring classic pub fare, local craft beers, and big-screen TVs in a suburban neighborhood",
+    "business_type": "food_service",
+    "target_domains": [
+      "suburbansportsbar.com",
+      "neighborhoodgrille.net",
+      "localbeersfavorites.org"
+    ],
+    "complexity": 17,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 40
+  },
+  {
+    "business_description": "Full-service law practice specializing in commercial real estate transactions and litigation",
+    "business_type": "legal",
+    "target_domains": [
+      "commercialrealestatelegalpros.com",
+      "realestatetransactionlawyers.net",
+      "commercialpropertylaw.org"
+    ],
+    "complexity": 14,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 2
+  },
+  {
+    "business_description": "enterprise real estate software platform for managing large commercial property portfolios",
+    "business_type": "real_estate",
+    "target_domains": [
+      "commercialmanager.com",
+      "portfoliopro.net",
+      "enterpriseproperties.biz"
+    ],
+    "complexity": 15,
+    "location_type": "online",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 38
+  },
+  {
+    "business_description": "personalized tutoring services for K-12 students in suburbs of Atlanta",
+    "business_type": "education_training",
+    "target_domains": [
+      "atlkidtutors.com",
+      "personalizedlearning.net",
+      "suburbanstudentsuccess.org"
+    ],
+    "complexity": 12,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 7
+  },
+  {
+    "business_description": "Independent sports complex featuring indoor and outdoor fields for youth and adult leagues",
+    "business_type": "sports",
+    "target_domains": [
+      "sportscomplex.com",
+      "leaguelocale.net",
+      "communityathletics.org"
+    ],
+    "complexity": 14,
+    "location_type": "suburban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 46
+  },
+  {
+    "business_description": "Luxury resort with world-class golf course and spa",
+    "business_type": "sports",
+    "target_domains": [
+      "premiumgolfresort.com",
+      "luxurygolfclub.vacation",
+      "golfparadise.luxury"
+    ],
+    "complexity": 9,
+    "location_type": "rural",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 36
+  },
+  {
+    "business_description": "ghost kitchen incubator and shared commercial food production space for local food entrepreneurs and start-ups",
+    "business_type": "food_service",
+    "target_domains": [
+      "localfoodworks.com",
+      "kitchenincubator.net",
+      "startupflavors.space"
+    ],
+    "complexity": 13,
+    "location_type": "urban",
+    "category": "standard",
+    "generation_method": "claude_api",
+    "batch_number": 10
+  }
+]
