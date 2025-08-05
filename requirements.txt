@@ -1,0 +1,11 @@
+anthropic==0.60.0
+transformers==4.54.0
+datasets==4.0.0
+accelerate==1.9.0
+peft==0.16.0
+bitsandbytes==0.46.1
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tqdm==4.67.1
+wandb==0.21.0
