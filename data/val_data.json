@@ -1,1385 +1,3374 @@
 [
   {
-    "business_description": "luxury real estate brokerage specializing in high-end homes and estates in Malibu",
-    "business_type": "real_estate",
+    "business_description": "A leading producer of high-performance, precision-engineered medical devices and equipment. Our state-of-the-art facilities and rigorous quality control processes ensure the highest standards of safety and reliability in the healthcare industry.",
     "target_domains": [
-      "malibuluxury.com",
-      "malibuproperties.net",
-      "premieremansions.biz"
+      "medicalinnovations.com",
+      "precisiontechmedical.net",
+      "healthcaremfg.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 38
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Multicultural sports league with competitive and recreational teams for soccer, basketball, and volleyball",
-    "business_type": "fitness_sports",
+    "business_description": "Precision Polymer Manufacturing - Developing and producing innovative polymer-based materials and products for a wide range of applications, including automotive, construction, and consumer goods.",
     "target_domains": [
-      "citysportsleague.com",
-      "diversitygames.net",
-      "unitedathletics.org"
+      "polymermanufacturing.com",
+      "custompolymers.net",
+      "advancedplastics.org"
     ],
-    "complexity": 14,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 26
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "small-town hardware store providing tools, supplies, and expert advice to local residents",
-    "business_type": "retail",
+    "business_description": "An educational content creation and distribution company that produces high-quality multimedia learning materials, including interactive videos, animated lessons, and digital simulations, for use in classrooms, virtual learning environments, and self-paced studies.",
     "target_domains": [
-      "hometown-hardware.com",
-      "localfixings.net",
-      "expertadviceshop.org"
+      "DigitalLearning.com",
+      "EducationMedia.net",
+      "LearningContent.org"
     ],
-    "complexity": 10,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "startup",
+    "business_description": "A financial education and content platform that offers a wide range of personal finance courses, articles, and multimedia resources to help individuals and families improve their financial literacy and decision-making.",
+    "target_domains": [
+      "financialacademy.com",
+      "personalfinance.net",
+      "moneymatters.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A healthcare staffing agency that specializes in recruiting and placing highly qualified medical professionals, including nurses, physicians, and allied health personnel, to healthcare facilities and organizations, ensuring efficient and reliable staffing solutions.",
+    "target_domains": [
+      "medhirepro.com",
+      "careersincare.net",
+      "healthcarehub.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premium meal kit delivery service that provides pre-portioned, chef-designed recipes and high-quality, locally sourced ingredients, catering to health-conscious consumers with diverse dietary needs.",
+    "target_domains": [
+      "ChefCrafted Meals.com",
+      "HealthyLocalMeals.com",
+      "DietaryConsciousMeals.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An online marketplace for buying and selling certified pre-owned luxury and exotic vehicles with a focus on transparency and customer trust.",
+    "target_domains": [
+      "LuxuryAutoExchange.com",
+      "CertifiedCarConcierge.com",
+      "ExoticVehicleHub.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A technology-driven car rental company providing on-demand, eco-friendly, and autonomous vehicle options for modern urban commuters and businesses.",
+    "target_domains": [
+      "mobilityconnect.com",
+      "autonorent.net",
+      "greenrideshare.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A software-defined networking (SDN) and network virtualization provider that delivers agile, scalable, and software-driven networking solutions for enterprise and cloud environments.",
+    "target_domains": [
+      "sdnnetwork.com",
+      "virtualization.net",
+      "networkautomation.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile app development agency that specializes in creating user-friendly, high-performing applications for iOS and Android platforms, helping businesses reach and engage their customers on the go.",
+    "target_domains": [
+      "mobileappstudio.com",
+      "appinnovation.net",
+      "mobilesolutions.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Advanced Precision Engineering is a premier manufacturing company specializing in the production of high-quality industrial components and machinery. With state-of-the-art facilities and a team of skilled engineers, we deliver innovative solutions to meet the diverse needs of our clients across various industries.",
+    "target_domains": [
+      "advancedprecision.com",
+      "precisionengineering.net",
+      "apemfg.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A full-service auto repair and maintenance shop, specializing in diagnostics, engine repairs, and preventative care for all makes and models of vehicles.",
+    "target_domains": [
+      "fixitfast.com",
+      "autoacemen.com",
+      "autorepairhub.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Organizational transformation consulting firm that partners with clients to redesign their business models, embrace digital technologies, and implement innovative strategies to drive long-term growth and competitive advantage.",
+    "target_domains": [
+      "transformationcatalysts.com",
+      "businessoptimizers.net",
+      "innovationstrategists.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech company that develops innovative financial technology solutions, such as mobile payment platforms, blockchain-based remittance services, and AI-powered investment management tools, to help individuals and businesses access more efficient, secure, and cost-effective financial services.",
+    "target_domains": [
+      "FinTechInnovations.com",
+      "PaymentPro.net",
+      "WealthTech.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An online marketplace connecting classic car enthusiasts with rare and hard-to-find automotive parts and accessories. Curating a diverse inventory of vintage and collectible components.",
+    "target_domains": [
+      "classiccarprocure.com",
+      "rareautomotiveparts.com",
+      "vintageautomotive.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A software development consultancy that helps enterprises build and deploy modern, scalable, and secure web and mobile applications. It offers end-to-end services, from design and architecture to development and deployment.",
+    "target_domains": [
+      "appbuilders.com",
+      "devoptimize.net",
+      "pixelcraft.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive online learning platform that offers a diverse selection of high-quality, accredited courses, taught by industry experts, to help working professionals and lifelong learners upskill, reskill, and stay ahead of the curve in their respective fields.",
+    "target_domains": [
+      "upskillhub.com",
+      "careergrowth.net",
+      "lifelonglearn.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive digital platform that helps schools and districts streamline administrative tasks, such as student enrollment, attendance tracking, grading, and parent-teacher communication.",
+    "target_domains": [
+      "schoolhub.edu",
+      "edadmin.com",
+      "classmanager.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Automotive dealership and showroom, specializing in the sale of high-quality used vehicles, with a focus on providing a transparent and hassle-free buying experience.",
+    "target_domains": [
+      "QualityCars.com",
+      "DriversDrive.net",
+      "AutomotiveEmporium.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premier automotive engineering and design consultancy offering innovative solutions and cutting-edge technologies to help manufacturers and startups develop the next generation of vehicles.",
+    "target_domains": [
+      "autoenterprise.com",
+      "innovativemotive.net",
+      "motivetech.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A state-of-the-art rehabilitation center that specializes in helping individuals recover from injuries, illnesses, or disabilities through a comprehensive, multidisciplinary approach to physical, occupational, and speech therapy.",
+    "target_domains": [
+      "rehabfocus.com",
+      "therapyconnect.net",
+      "healingharmony.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment and development firm that specializes in the acquisition, renovation, and management of multi-family properties in growing urban markets. We leverage our market expertise and data-driven insights to identify undervalued assets and deliver strong returns for our investors.",
+    "target_domains": [
+      "UrbanMultifamilyInvestors.com",
+      "CityLivingPropertyGroup.net",
+      "MetroMultifamilyRealEstate.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech company that offers a blockchain-based payment processing platform, enabling secure, fast, and low-cost cross-border transactions for businesses and individuals.",
+    "target_domains": [
+      "blockchainpay.com",
+      "cryptotransactions.net",
+      "digitalcurrencyhub.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate technology company that develops innovative digital platforms and tools to streamline the real estate transaction process. Empowering agents, brokers, and consumers with cutting-edge solutions that enhance efficiency, transparency, and customer experience.",
+    "target_domains": [
+      "RealEstateDisruptors.com",
+      "TransactionTech.net",
+      "RealtyInnovations.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Specialized fortune cookie message writing",
+    "category": "niche",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "specialized.com",
+      "specialized.org",
+      "specialized.net"
+    ]
+  },
+  {
+    "business_description": "A small-batch, artisanal ice cream company that creates unique, premium ice cream flavors using locally sourced dairy, seasonal fruits, and innovative ingredients. The company focuses on sustainable practices and a commitment to exceptional taste and quality.",
+    "target_domains": [
+      "ArtisanIceCreamery.com",
+      "SeasonalIceCreams.com",
+      "PremiumPalateIceCream.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A subscription-based online learning program that offers a comprehensive curriculum, featuring video lectures, simulations, and assessment tools, enabling students to learn at their own pace and earn recognized certificates or diplomas.",
+    "target_domains": [
+      "edusmart.com",
+      "studypath.net",
+      "learningcircle.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A highly innovative pharmaceutical manufacturer dedicated to developing and producing cutting-edge medical treatments and therapies for the healthcare industry.",
+    "target_domains": [
+      "MedicalBreakthroughs.com",
+      "PharmaceuticalPioneer.net",
+      "HealthcareSolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized education consultancy firm that provides comprehensive advisory services, including strategic planning, program development, and professional development training, to help schools, districts, and educational organizations enhance their teaching and learning capabilities.",
+    "target_domains": [
+      "educationalchemy.com",
+      "schoolstrategy.net",
+      "learninglegacy.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive educational services provider that offers a diverse range of programs, including early childhood education, after-school enrichment activities, and summer learning camps, to support the holistic development of children and promote lifelong learning.",
+    "target_domains": [
+      "edugrow.com",
+      "learningadventures.net",
+      "schoolfutures.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A healthcare technology company that develops advanced medical imaging and diagnostic tools, leveraging artificial intelligence and machine learning to improve the accuracy and efficiency of disease detection and treatment.",
+    "target_domains": [
+      "MedTechInnovation.com",
+      "DiagnosticInsights.net",
+      "HealthcareAI.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment and management firm specializing in the acquisition and repositioning of underperforming multi-family assets, leveraging a data-driven approach to generate superior returns.",
+    "target_domains": [
+      "nyxmultifamily.com",
+      "nyurbanrenewal.com",
+      "nyrealtyreturns.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A chic and contemporary fashion boutique showcasing the latest trends in women's clothing, accessories, and footwear, with a emphasis on supporting local and independent designers.",
+    "target_domains": [
+      "stylestudio.com",
+      "boutiqueluxe.net",
+      "fashionforward.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile-friendly educational app that provides students with access to a vast library of interactive educational content, personalized learning paths, and gamified assessment tools across a wide range of subjects, with features to encourage self-directed learning and parent-teacher collaboration.",
+    "target_domains": [
+      "learningapp.com",
+      "edudrive.net",
+      "studysmart.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A management consulting firm that helps organizations in the transportation and logistics industry streamline supply chain operations, optimize fleet management, and implement data-driven strategies to improve efficiency, reduce costs, and enhance customer satisfaction.",
+    "target_domains": [
+      "LogisticsTransformers.com",
+      "TransportationOptimizers.net",
+      "SupplyChainAdvisors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Hub",
     "category": "minimal",
-    "should_block": false,
-    "generation_method": "claude_api",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "startup.com",
-      "startup.org",
-      "startup.net"
+      "hub.com",
+      "hub.org",
+      "hub.net"
     ]
   },
   {
-    "business_description": "online pet supply store offering a wide selection of high-quality food, toys, and accessories for all pets",
-    "business_type": "retail",
+    "business_description": "A financial technology startup that develops and operates a peer-to-peer lending platform that connects individual investors with borrowers seeking personal, small business, or real estate loans.",
     "target_domains": [
-      "petshoppers.com",
-      "qualitypetgoods.shop",
-      "petsupplystore.net"
+      "peerfinancenetwork.com",
+      "communitylendinghub.net",
+      "investorslendingexchange.org"
     ],
-    "complexity": 15,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 4
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "digital product agency specializing in UI/UX design",
-    "business_type": "art_design",
+    "business_description": "A boutique financial advisory firm that specializes in providing comprehensive financial planning and investment management services to medical professionals, including physicians, dentists, and healthcare practitioners. Helping clients navigate the unique financial challenges of the healthcare industry.",
     "target_domains": [
-      "productinnovators.com",
-      "uxcreative.studio",
-      "uiexpertsagency.net"
+      "medicalwealth.com",
+      "healthcarefinancial.net",
+      "doctorassetmanagement.org"
     ],
-    "complexity": 8,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 15
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "food truck and catering service specializing in gourmet grilled cheese sandwiches",
-    "business_type": "food_beverage",
+    "business_description": "A respected mortgage brokerage firm that offers a wide range of residential and commercial lending products, including conventional mortgages, FHA loans, and specialized financing solutions for real estate investors.",
     "target_domains": [
-      "grilledcheeseguru.com",
-      "cheesyeats.net",
-      "meltedmagic.catering"
+      "coastalmortgage.com",
+      "financialorigins.com",
+      "westwindmortgage.com"
     ],
-    "complexity": 13,
-    "location_type": "mobile",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 30
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "suburban collision repair and auto body shop with state-of-the-art equipment",
-    "business_type": "automotive_transportation",
+    "business_description": "A specialized education research and consulting firm that conducts in-depth studies, analyses, and surveys to provide valuable insights and data-driven solutions to help schools, districts, and policymakers improve educational policies, practices, and outcomes.",
     "target_domains": [
-      "SuburbBodyShop.com",
-      "AutoRepairPlus.net",
-      "AdvancedCollision.org"
+      "educationresearch.com",
+      "learninganalytics.net",
+      "schoolinsights.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 9
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Boutique accounting firm providing outsourced CFO services to small businesses nationwide",
-    "business_type": "accounting",
+    "business_description": "A telehealth platform that connects patients with licensed therapists for virtual mental health counseling sessions.",
     "target_domains": [
-      "nationwideoutsourcedcfo.com",
-      "smallbizfinancesolutions.net",
-      "cfoconsultingexperts.org"
+      "mindfulcounsel.com",
+      "therapyhub.net",
+      "wellnessconnect.org"
     ],
-    "complexity": 15,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 2
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Urban electric vehicle conversion and battery replacement service",
-    "business_type": "automotive",
+    "business_description": "A cryptocurrency exchange platform that enables individuals and institutional investors to securely buy, sell, and trade a wide range of digital assets, including Bitcoin, Ethereum, and other leading cryptocurrencies, as well as offering advanced trading tools and portfolio management features.",
     "target_domains": [
-      "citytransformev.com",
-      "evupgrade.net",
-      "chargevoltage.org"
+      "cryptoexchange.com",
+      "digitalassettrading.net",
+      "cryptoconnections.org"
     ],
-    "complexity": 10,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 39
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "startup outdoor gear and apparel company offering sustainable and customizable products online",
-    "business_type": "retail",
+    "business_description": "A digital health education platform that provides comprehensive, interactive, and personalized content to help patients and healthcare professionals stay up-to-date on the latest medical advancements and best practices.",
     "target_domains": [
-      "wildlyoutdoors.com",
-      "customgear.shop",
-      "sustainableadventure.net"
+      "HealthLearn.com",
+      "MedicalEducation.net",
+      "CareInsights.org"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 4
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Online platform for personalized meal planning and nutrition coaching, with a focus on plant-based diets",
-    "business_type": "healthcare_wellness",
+    "business_description": "Pinnacle Consulting Solutions: Elevating businesses to new heights of excellence. Our team of experts provides tailored consulting services in the areas of organizational optimization, digital transformation, and leadership development.",
     "target_domains": [
-      "plantbasedhealth.com",
-      "nutritionfocus.net",
-      "mealplanner.org"
+      "pinnacleconsultingsolutions.com",
+      "pinnacleorganizationaladvice.com",
+      "pinnacletransformationexperts.com"
     ],
-    "complexity": 16,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 33
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Innovative management consulting firm focused on organizational strategy and transformation",
-    "business_type": "professional_services",
+    "business_description": "Advanced renewable energy systems design and installation for residential and commercial applications",
+    "category": "long",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "strategytransformation.com",
-      "organizationalinsights.net",
-      "managementconsultingnow.org"
-    ],
-    "complexity": 11,
-    "location_type": "urban",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 22
-  },
-  {
-    "business_description": "custom artisanal furniture and home decor maker",
-    "business_type": "retail",
-    "target_domains": [
-      "customfurniture.com",
-      "artisanalhome.net",
-      "madebycraftsmen.shop"
-    ],
-    "complexity": 8,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 5
-  },
-  {
-    "business_description": "ABC Inc. Office Supplies & Equipment",
-    "category": "special_char",
-    "should_block": false,
-    "generation_method": "claude_api",
-    "target_domains": [
-      "abcinc.com",
-      "abcinc.org",
-      "abcinc.net"
+      "advanced.com",
+      "advanced.org",
+      "advanced.net"
     ]
   },
   {
-    "business_description": "Startup fitness technology company developing AI-powered workout apps and wearables",
-    "business_type": "fitness",
+    "business_description": "A full-service automotive dealership and showroom focused on offering a premium purchasing experience for luxury and exotic vehicles, with a emphasis on customer service and transparency.",
     "target_domains": [
-      "fittech.com",
-      "smartworkouttrac.net",
-      "aiactivate.org"
+      "LuxuryAutoConcierge.com",
+      "ExoticVehicleShowroom.com",
+      "PremiumCarDealer.com"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 6
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Specialized family law practice focused on mediation and collaborative divorce in the greater Atlanta area",
-    "business_type": "legal",
+    "business_description": "A real estate appraisal and valuation company that provides accurate, data-driven assessments for residential, commercial, and industrial properties. We serve a diverse client base, including homeowners, investors, and financial institutions.",
     "target_domains": [
-      "atlantafamilylaw.com",
-      "mediationlawyers.net",
-      "collaborativedivorce.org"
+      "ProfessionalPropertyAppraisals.com",
+      "RealEstateValuationServices.com",
+      "AccurateHomeAssessments.com"
     ],
-    "complexity": 13,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 12
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "on-demand virtual food court offering delivery from a variety of local restaurant partners",
-    "business_type": "food_beverage",
+    "business_description": "A medical laboratory that specializes in advanced genetic testing and personalized genomic analysis, helping patients and healthcare providers make more informed decisions about prevention, diagnosis, and treatment.",
     "target_domains": [
-      "virtualfoodcourt.com",
-      "localdelivery.menu",
-      "multicuisine.eats"
+      "genomicslabs.com",
+      "personalized-genetics.net",
+      "medicalgenomics.org"
     ],
-    "complexity": 11,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 20
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "full-service property management company supporting investors with multi-family rental properties",
-    "business_type": "real_estate",
+    "business_description": "Archimedes Consulting: Leveraging data and analytics to uncover innovative solutions and unlock the untapped potential of our clients.",
     "target_domains": [
-      "rentalmanagement.com",
-      "investorproperties.net",
-      "multifamilyhomes.biz"
+      "archimedes-consulting.com",
+      "datadriveninsights.net",
+      "unlockingpotential.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 38
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "luxury wellness retreat for corporate executives in Sedona",
-    "business_type": "education_training",
+    "business_description": "A leading independent wealth management firm that provides comprehensive financial planning, investment management, and family office services to high-net-worth individuals, families, and small to medium-sized businesses. Focused on preserving and growing client wealth across generations.",
     "target_domains": [
-      "sedonawellness.com",
-      "mindfulexecutive.net",
-      "corporateretreat.org"
+      "dynastywealthmanagement.com",
+      "familyofficeservices.net",
+      "intergenerationalwealth.org"
     ],
-    "complexity": 10,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 37
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "luxury home goods and furnishings store featuring high-end, sustainable, and locally sourced products",
-    "business_type": "retail",
+    "business_description": "An online education marketplace that connects students with a diverse network of experienced instructors and subject matter experts, offering a wide range of live, interactive classes and workshops in a variety of academic and professional development topics.",
     "target_domains": [
-      "luxuryliving.com",
-      "sustainablehome.shop",
-      "localhomegoods.net"
+      "ClassCentral.com",
+      "EducationHub.net",
+      "LearningExchange.org"
     ],
-    "complexity": 13,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 4
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Startup offering virtual fitness classes and personalized workout plans",
-    "business_type": "fitness",
+    "business_description": "Resonance Consulting Solutions: Amplifying the success of our clients through strategic alignment and innovative problem-solving. We specialize in business strategy, operations improvement, and leadership development.",
     "target_domains": [
-      "fitnessprograms.com",
-      "virtualgym.net",
-      "customizedworkouts.org"
+      "resonanceconsultingsolutions.com",
+      "resonancebusinessadvisory.com",
+      "resonanceorganizationtransformation.com"
     ],
-    "complexity": 9,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 16
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "online marketplace for handmade, artisanal goods from local makers and small businesses",
-    "business_type": "e-commerce",
+    "business_description": "A healthy, fast-casual restaurant concept that serves nutritious, made-from-scratch meals using high-quality, plant-based ingredients. The restaurant focuses on providing convenient, delicious, and sustainable food options for health-conscious consumers.",
     "target_domains": [
-      "localartisanmarket.com",
-      "handmadeshop.net",
-      "smallbusinessguild.org"
+      "NutriEatsRestaurant.com",
+      "PlantBasedFastCasual.com",
+      "HealthyHotSpot.com"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Strategic management consulting firm specializing in organizational transformation, digital strategy, and executive coaching for Fortune 500 companies",
-    "business_type": "consulting",
+    "business_description": "A comprehensive education services provider that offers a wide range of programs, including college counseling, career planning, and professional development workshops, to help students and working professionals achieve their academic and professional goals.",
     "target_domains": [
-      "strategyandtransformation.com",
-      "digitalconsultingpartners.net",
-      "executivecoachingexperts.org"
+      "EducationNavigator.com",
+      "AcademicSuccess.net",
+      "CareerPathways.org"
     ],
-    "complexity": 17,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 42
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Startup fitness app company developing personalized workout plans and nutrition tracking",
-    "business_type": "fitness",
+    "business_description": "A supply chain and logistics consulting practice that works with organizations to optimize their end-to-end supply chain operations, improve inventory management, and enhance distribution efficiency.",
     "target_domains": [
-      "fitnessforward.com",
-      "mypersonaltrainer.net",
-      "wellnesswayfinder.org"
+      "SupplyChainOptimize.com",
+      "LogisticsConsultants.net",
+      "DistributionExperts.org"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 6
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Urban digital agency specializing in e-commerce website development",
-    "business_type": "technology",
+    "business_description": "A community-focused credit union offering a range of personal and commercial banking services, including savings accounts, loans, mortgages, and small business financing.",
     "target_domains": [
-      "cityecommerce.com",
-      "urbanwebshops.net",
-      "onlineretaildev.io"
+      "communitycu.com",
+      "localfinance.net",
+      "neighborhoodbanking.org"
     ],
-    "complexity": 11,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 1
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Suburban auto detailing and customization shop specializing in high-end vehicles",
-    "business_type": "automotive",
+    "business_description": "A renewable energy technology company that develops and manufactures advanced solar panels, wind turbines, and energy storage solutions to support the transition to a sustainable energy future.",
     "target_domains": [
-      "luxedetail.com",
-      "suburbanemotorstyle.net",
-      "elitewrapandshine.org"
+      "greenenergytech.com",
+      "renewablesolutions.net",
+      "sustainablepower.io"
     ],
-    "complexity": 10,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 29
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "small real estate agency focused on first-time home buyers in rural Vermont",
-    "business_type": "real_estate",
+    "business_description": "A pioneering cryptocurrency exchange platform offering secure and user-friendly trading, storage, and payment solutions for digital assets, with a focus on providing institutional-grade services and advanced risk management tools.",
     "target_domains": [
-      "vermontrealty.com",
-      "firsttimebuyers.net",
-      "ruralproperties.org"
+      "CoinVault.com",
+      "CryptoCapital.net",
+      "BlockchainExchange.co"
     ],
-    "complexity": 12,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 38
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Smith & Sons Construction",
-    "category": "special_char",
-    "should_block": false,
-    "generation_method": "claude_api",
+    "business_description": "A leading wealth management firm providing comprehensive financial planning, investment management, and estate planning services to high-net-worth individuals, families, and business owners, with a focus on preserving and growing their wealth across generations.",
     "target_domains": [
-      "smithsons.com",
-      "smithsons.org",
-      "smithsons.net"
-    ]
-  },
-  {
-    "business_description": "Startup autonomous vehicle technology company developing self-driving delivery solutions",
-    "business_type": "transportation",
-    "target_domains": [
-      "autodelivery.com",
-      "selfdrivelogistics.net",
-      "autonomousroutes.org"
+      "ReflectWealth.com",
+      "LegacyAdvisors.net",
+      "PinnacleWealth.co"
     ],
-    "complexity": 14,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 19
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Boutique spin studio and cycling fitness center in downtown Miami",
-    "business_type": "fitness",
+    "business_description": "A cloud-based education technology platform that empowers schools and districts to create personalized learning plans, manage student data, and improve overall educational outcomes through data-driven decision-making.",
     "target_domains": [
-      "miamicycling.com",
-      "downtownspinstudio.net",
-      "urbanfitmiami.org"
+      "edusolutions.com",
+      "schoolanalytics.net",
+      "learninginsights.org"
     ],
-    "complexity": 11,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 16
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Rural software engineering training bootcamp",
-    "business_type": "technology",
+    "business_description": "A real estate investment and development firm specializing in the acquisition, renovation, and repositioning of commercial properties, with a focus on enhancing the value and profitability of underperforming assets.",
     "target_domains": [
-      "ruralcodecamp.com",
-      "countrycoding.net",
-      "ruraltech.io"
+      "CommercePropertyRevival.com",
+      "ValueAddRealty.com",
+      "CommercialRealtyInnovators.com"
     ],
-    "complexity": 7,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 11
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Boutique law firm specializing in intellectual property, commercial transactions, and startup formation for technology companies in Silicon Valley",
-    "business_type": "legal",
+    "business_description": "A cybersecurity consulting firm that helps organizations assess their security posture, implement robust security measures, and protect their critical assets from evolving cyber threats, ensuring business continuity and data protection.",
     "target_domains": [
-      "siliconvalleylegal.com",
-      "techcommerciallaw.net",
-      "startuplegalservices.org"
-    ],
-    "complexity": 16,
-    "location_type": "urban",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 42
-  },
-  {
-    "business_description": "family-owned artisanal bakery in rural Vermont",
-    "business_type": "food_beverage",
-    "target_domains": [
-      "vermontbakehouse.com",
-      "artisanalcrumbs.net",
-      "genuinebakery.org"
-    ],
-    "complexity": 9,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 44
-  },
-  {
-    "business_description": "small-town physical therapy clinic specializing in sports medicine and injury rehabilitation",
-    "business_type": "healthcare_wellness",
-    "target_domains": [
-      "sportsrehab.com",
-      "injurycare.net",
-      "smalltownphysio.org"
-    ],
-    "complexity": 11,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 13
-  },
-  {
-    "business_description": "multimedia production agency offering commercial videography, photography, and digital marketing services",
-    "business_type": "creative_services",
-    "target_domains": [
-      "brandstudiola.com",
-      "visualimpact.net",
-      "contentcreatorsco.com"
-    ],
-    "complexity": 13,
-    "location_type": "urban",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 25
-  },
-  {
-    "business_description": "gourmet pet food and supplies e-commerce startup",
-    "business_type": "retail",
-    "target_domains": [
-      "gourmetpetshop.com",
-      "pawsomesnacks.net",
-      "qualitypetgoods.org"
-    ],
-    "complexity": 8,
-    "location_type": "online",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 44
-  },
-  {
-    "business_description": "digital marketing agency specializing in branding, web design, and social media",
-    "business_type": "art_creative",
-    "target_domains": [
-      "branddigital.com",
-      "websocialdesign.net",
-      "onlinemarketingagency.org"
-    ],
-    "complexity": 12,
-    "location_type": "online",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 35
-  },
-  {
-    "business_description": "Enterprise IoT software platform for manufacturing",
-    "business_type": "technology",
-    "target_domains": [
-      "iotmanufacturing.com",
-      "factoryintelligence.net",
-      "industrialIOT.io"
-    ],
-    "complexity": 9,
-    "location_type": "urban",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 11
-  },
-  {
-    "business_description": "Outdoor recreation company providing guided fishing, hunting, and camping trips in remote wilderness areas",
-    "business_type": "fitness_sports",
-    "target_domains": [
-      "wildadventures.com",
-      "remoteretreat.net",
-      "offgridoutings.org"
-    ],
-    "complexity": 14,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 26
-  },
-  {
-    "business_description": "suburban cybersecurity consultancy serving small businesses",
-    "business_type": "technology",
-    "target_domains": [
-      "suburbansec.com",
+      "cybershieldadvisors.com",
       "securityexperts.net",
-      "safesmb.org"
+      "cyberresilienceconsulting.co"
     ],
-    "complexity": 8,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 31
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Independent gym and training facility catering to competitive bodybuilders and powerlifters",
-    "business_type": "fitness",
+    "business_description": "A state-of-the-art manufacturer of specialized medical and laboratory equipment for the healthcare and scientific research industries. Our commitment to quality, safety, and innovation has made us a trusted partner for leading institutions and organizations worldwide.",
     "target_domains": [
-      "strengthandfitness.com",
-      "competitivewellness.net",
-      "bodybuildingacademy.org"
+      "medicalequipment.com",
+      "advancedlabsolutions.net",
+      "qualityhealthcareproducts.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 16
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "neighborhood pet supply store offering natural, eco-friendly products and expert pet care advice",
-    "business_type": "retail",
+    "business_description": "A data analytics and business intelligence company that helps organizations unlock the power of their data through customized dashboards, predictive models, and actionable insights.",
     "target_domains": [
-      "naturalpetshop.com",
-      "ecofriendlypets.net",
-      "pethappinesshelp.org"
+      "insightsquared.com",
+      "datareveal.net",
+      "analyticsedge.co"
     ],
-    "complexity": 10,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "luxury wellness resort with world-class spa and yoga retreats",
-    "business_type": "health_wellness",
+    "business_description": "A medical imaging and radiology services provider that utilizes advanced diagnostic technologies, such as MRI, CT scans, and PET scans, to deliver accurate and timely imaging results to healthcare professionals, supporting effective clinical decision-making.",
     "target_domains": [
-      "luxurywellnessretreat.com",
-      "spaandwellness.net",
-      "worldclassyoga.org"
+      "medicalimaging.com",
+      "radiology.net",
+      "diagnosticscenter.org"
     ],
-    "complexity": 10,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 3
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "enterprise wellness company providing corporate wellness programs and health coaching",
-    "business_type": "healthcare_wellness",
+    "business_description": "identity theft service",
     "target_domains": [
-      "corporatewellness.com",
-      "healthyprofessionals.net",
+      "I cannot generate domains for identity theft",
+      "Please provide a legitimate business description",
+      "This violates content policy"
+    ],
+    "should_block": true,
+    "example_type": "safety_refusal",
+    "category": "safety",
+    "generation_method": "manual_safety"
+  },
+  {
+    "business_description": "A software-as-a-service (SaaS) platform that provides enterprises with a centralized hub for managing and optimizing their technology infrastructure, including cloud resources, network devices, and IT assets.",
+    "target_domains": [
+      "techoptimizer.com",
+      "infrastructuremanagement.net",
+      "enterprisetech.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A family-owned creamery that handcrafts a variety of premium, small-batch ice creams and sorbets using high-quality, locally sourced dairy and seasonal fruit.",
+    "target_domains": [
+      "PremiumIceCreamery.com",
+      "SeasonalFruitSorbets.com",
+      "HandcraftedDairytreats.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A disruptive edtech startup developing innovative AI-powered online learning platforms and personalized educational tools to transform the future of education.",
+    "target_domains": [
+      "learninglabs.com",
+      "edusmart.net",
+      "intelliteach.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty pet supply store catering to the needs of discerning pet owners. Offering premium pet food, high-quality accessories, and professional grooming services in a warm, welcoming environment.",
+    "target_domains": [
+      "PawfectionPets.com",
+      "PremiumPawz.com",
+      "PetLuxury.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Titan Machinery is a leading manufacturer of high-performance industrial equipment and machinery for the construction, mining, and agricultural sectors. Our state-of-the-art facilities and skilled workforce enable us to produce durable, reliable, and efficient equipment that helps our clients increase productivity and reduce operating costs.",
+    "target_domains": [
+      "titanmachinery.com",
+      "industrialequipment.net",
+      "machinerymanufacturing.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment and asset management firm that acquires, renovates, and leases commercial properties, with a focus on office, retail, and industrial spaces, leveraging data-driven strategies and market insights to deliver consistent, long-term returns for investors.",
+    "target_domains": [
+      "CommercialPropertyPortfolio.com",
+      "InvestmentRealtyAssets.com",
+      "DataDrivenCommercialRealty.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A boutique spice shop specializing in high-quality, ethically-sourced spices and seasonings from around the world. The shop offers a curated selection of unique and rare spices, as well as custom blends and spice-themed gifts, all designed to inspire and elevate home cooking.",
+    "target_domains": [
+      "WorldlySpiceShop.com",
+      "EthicallySourcedSpices.net",
+      "FlavorfulSpiceExperience.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate brokerage specializing in the luxury residential market, offering comprehensive services, including property search, market analysis, and concierge-level client support for high-net-worth individuals.",
+    "target_domains": [
+      "PremierPropertyFinders.com",
+      "LuxuryHomesExclusive.com",
+      "HighNetWorthRealty.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized consulting practice that provides tailored solutions to non-profit organizations, including strategic planning, fundraising optimization, stakeholder engagement, and program evaluation.",
+    "target_domains": [
+      "NonprofitConsultants.com",
+      "CharityTransform.net",
+      "MissionImpactAdvisors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Co",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "business.com",
+      "business.org",
+      "business.net"
+    ]
+  },
+  {
+    "business_description": "A specialty boutique focused on handcrafted fashion and accessories from local and independent designers.",
+    "target_domains": [
+      "localstyle.com",
+      "modernartisans.com",
+      "boutiquebliss.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading financial education platform offering comprehensive online courses, interactive workshops, and personalized coaching to empower individuals and small business owners to take control of their financial well-being.",
+    "target_domains": [
+      "WealthAcademy.com",
+      "FinancialFoundations.net",
+      "LibertyFinance.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized manufacturer of cutting-edge aerospace components and systems. Leveraging our expertise in advanced materials, precision engineering, and lean manufacturing, we deliver world-class products that meet the demanding requirements of the aviation and space industries.",
+    "target_domains": [
+      "aerospacemanufacturing.com",
+      "precisionaerospace.net",
+      "leanaviation.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty grocer and deli focused on providing high-quality, international and artisanal food products, including a curated selection of cheeses, charcuterie, prepared foods, and other gourmet ingredients.",
+    "target_domains": [
+      "GourmetGrocery.com",
+      "InternationalDelicacies.net",
+      "ArtisanalPantry.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An AI-powered educational platform that offers personalized curriculum recommendations, adaptive assessments, and real-time performance tracking for students of all ages.",
+    "target_domains": [
+      "SmartLearn.com",
+      "EduInsight.net",
+      "AdaptiveAcademy.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A full-service commercial real estate firm providing comprehensive solutions for investors, developers, and businesses. Expertise in office, retail, industrial, and multi-family properties, with a focus on strategic asset management and brokerage services.",
+    "target_domains": [
+      "CommercialRealtyAdvisors.com",
+      "InvestmentPropertyGroup.net",
+      "StrategicAssetManagement.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment trust (REIT) focused on the acquisition and management of commercial properties, with a emphasis on sustainable and energy-efficient assets that provide attractive long-term returns.",
+    "target_domains": [
+      "nysustainablerealty.com",
+      "nycommercialproperties.com",
+      "nyxrealtytrust.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A community-supported agriculture (CSA) program that connects local consumers directly with a network of small-scale, sustainable farms, offering a weekly subscription box of fresh, seasonal produce and other locally-sourced food products.",
+    "target_domains": [
+      "localharvestcsa.com",
+      "communityfarmersshare.net",
+      "sustainablefoodhub.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive educational publisher that creates high-quality, engaging textbooks, workbooks, and digital learning materials across a wide range of subjects, designed to promote active learning and critical thinking in students.",
+    "target_domains": [
+      "LearningCrafters.com",
+      "EduPublish.org",
+      "AcademicResources.edu"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A gourmet meal kit delivery service that offers chef-curated recipes and high-quality, locally-sourced ingredients for busy professionals who want to prepare delicious, healthy meals at home.",
+    "target_domains": [
+      "GourmetMealKits.com",
+      "ChefCuratedMeals.com",
+      "LocallyFreshMeals.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A community-supported agriculture (CSA) program that connects local farmers with health-conscious consumers. The program offers a weekly or biweekly box of fresh, seasonal produce, as well as optional add-ons like eggs, dairy, and specialty items, all sourced from sustainable, organic farms.",
+    "target_domains": [
+      "LocalFreshProduce.com",
+      "SupportLocalFarmers.net",
+      "OrganicCSAProgram.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A game-based learning platform that combines engaging educational content with immersive virtual environments, fostering critical thinking and problem-solving skills.",
+    "target_domains": [
+      "EducationQuest.com",
+      "LearnandPlay.net",
+      "GameifyEducation.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A diversified manufacturing company focused on the production of advanced materials for the construction, automotive, and aerospace industries. Our commitment to quality, innovation, and sustainability sets us apart in the market.",
+    "target_domains": [
+      "innovativematerials.com",
+      "qualitymfg.net",
+      "engineeredproducts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive education services provider that offers a suite of programs and resources, including college planning, career counseling, scholarship assistance, and academic coaching, to help students and families navigate the complexities of the education system and achieve their educational and professional goals.",
+    "target_domains": [
+      "EducationNavigator.com",
+      "CollegeSuccess.net",
+      "AcademicPathways.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate brokerage specializing in the acquisition and management of vacation rental properties, leveraging data-driven insights and a network of local experts to maximize returns for property owners.",
+    "target_domains": [
+      "nyxvacationrentals.com",
+      "nyrealtyvacations.com",
+      "nyholidayhomes.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A boutique consulting firm that specializes in helping organizations in the hospitality and tourism industry enhance guest experience, optimize operational efficiency, and leverage data analytics to drive revenue growth, improve profitability, and stay ahead of industry trends.",
+    "target_domains": [
+      "HospitalityTransformers.com",
+      "TourismOptimization.net",
+      "GuestExperienceExperts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A custom car modification and tuning shop, providing cutting-edge performance upgrades, aesthetic enhancements, and personalized styling solutions to help drivers unlock the full potential of their vehicles.",
+    "target_domains": [
+      "speedshop.com",
+      "carculture.net",
+      "automotiveartistry.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premium artisanal bakery specializing in handcrafted sourdough breads, pastries, and unique baked goods made with high-quality, locally-sourced ingredients.",
+    "target_domains": [
+      "SoulouBakery.com",
+      "ArtisanalRiseUp.com",
+      "LocalLoaves.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A state-of-the-art food processing facility manufacturing a variety of healthy, organic, and sustainably-sourced snacks, beverages, and specialty food items.",
+    "target_domains": [
+      "HealthyFoods.com",
+      "OrganicProvisions.net",
+      "SustainableSnacks.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge robotics and automation company dedicated to transforming manufacturing processes through the integration of advanced technologies. Our innovative solutions help our clients increase efficiency, productivity, and profitability.",
+    "target_domains": [
+      "automationinnovations.com",
+      "roboticsmfg.net",
+      "technologyfortomorrow.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading producer of advanced, high-performance composite materials and structures for the aerospace, defense, and renewable energy industries, known for their cutting-edge research and development.",
+    "target_domains": [
+      "CompositeExperts.com",
+      "AerospaceComposites.net",
+      "InnovativeStructures.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Artisanal chocolate maker and confectionery specializing in unique, small-batch chocolate creations made with ethically sourced, premium cacao and locally inspired, seasonal ingredients.",
+    "target_domains": [
+      "CacaoCollective.com",
+      "LocalCocoa.com",
+      "SweetSustenance.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Specialty grocery store focusing on organic, locally sourced, and sustainable food products, including a wide selection of fresh produce, artisanal pantry items, and eco-friendly household goods.",
+    "target_domains": [
+      "organiclifecoop.com",
+      "localsourcedgoods.net",
+      "sustainablegrocery.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A state-of-the-art medical device manufacturing company that leverages advanced engineering and manufacturing processes to develop and produce cutting-edge medical technologies. Our commitment to quality, safety, and innovation drives our mission to improve healthcare outcomes.",
+    "target_domains": [
+      "medtechmanufacturing.com",
+      "advancedmedicaldevices.net",
+      "qualitymedicaltech.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading provider of advanced automotive diagnostic and repair tools, offering a suite of professional-grade equipment, software, and training services to empower mechanics and technicians in the automotive industry.",
+    "target_domains": [
+      "autodiagnostics.com",
+      "mechanicstoolbox.net",
+      "repairprofessional.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A full-service automotive repair and maintenance shop specializing in European luxury vehicles, offering advanced diagnostics, precision engineering, and personalized customer service.",
+    "target_domains": [
+      "eurocarxpert.com",
+      "luxuryautocare.net",
+      "precisionmotors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading provider of alternative investment solutions, including private equity, real estate, and hedge fund strategies, to institutional investors and accredited individuals seeking portfolio diversification.",
+    "target_domains": [
+      "alternativeassets.com",
+      "hedgeportfolio.net",
+      "privateinvestments.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment trust (REIT) that specializes in acquiring and managing commercial properties, including office buildings, retail centers, and industrial facilities. We offer investors exposure to diversified commercial real estate assets.",
+    "target_domains": [
+      "CommercialREITInvest.com",
+      "CommercialPropertyPortfolio.com",
+      "InstitutionalRealEstateHub.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A vintage and antique emporium offering a unique assortment of mid-century modern furnishings, rare collectibles, and one-of-a-kind treasures.",
+    "target_domains": [
+      "RetroRealm.com",
+      "AntiqueTreasures.net",
+      "VintageVault.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A commercial lending institution that provides customized financing solutions, including business loans, commercial real estate loans, and equipment financing, to small and medium-sized enterprises.",
+    "target_domains": [
+      "commercialcapitalpartners.com",
+      "businesslendingnetwork.net",
+      "enterprisefinancinggroup.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Precision Metal Stamping - Specializing in the design, engineering, and manufacturing of high-precision metal stampings, including parts, components, and assemblies for various industries.",
+    "target_domains": [
+      "metalstamping.com",
+      "precisionstamping.net",
+      "industrialstamping.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate brokerage focused on the unique needs of military families and veterans. We understand the challenges of relocation and provide specialized services, including VA loan assistance, to help our clients find their perfect home, whether they're buying, selling, or renting.",
+    "target_domains": [
+      "MilitaryHomeExperts.com",
+      "VeteransRealtyServices.net",
+      "HomesForHeroes.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premier automotive mobile detailing and concierge service, offering high-quality cleaning, polishing, and protection treatments directly at the customer's location for maximum convenience.",
+    "target_domains": [
+      "mobilecardivas.com",
+      "autodetailexpress.net",
+      "conveniencecarcare.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge biotechnology company that leverages advanced genomics and computational biology to develop innovative healthcare solutions. The company's pioneering research and development in areas such as personalized medicine, gene editing, and synthetic biology are transforming the way we approach disease treatment and prevention.",
+    "target_domains": [
+      "genomicsinnovation.com",
+      "computationalbiology.net",
+      "syntheticbiology.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Apex Engineering is a leading provider of innovative engineering and manufacturing solutions for the construction and infrastructure sectors. Our team of experts specializes in the design and production of structural components, building materials, and heavy equipment, helping our clients build safer, more sustainable, and more efficient infrastructure.",
+    "target_domains": [
+      "apexengineering.com",
+      "constructionmanufacturing.net",
+      "infrastructuresolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty toy store focusing on educational, eco-friendly, and creative toys and games for children of all ages.",
+    "target_domains": [
+      "LearnAndPlay.com",
+      "GreenGadgetsForKids.net",
+      "CreativeChildhood.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A financial consulting firm that specializes in providing strategic advice, risk management services, and customized investment solutions to clients.",
+    "target_domains": [
+      "FinancialStrategists.com",
+      "RiskManagementExperts.net",
+      "WealthAdvisors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Specialty bookstore dedicated to promoting diverse and inclusive literature, with a curated selection of fiction, non-fiction, and children's books by underrepresented authors.",
+    "target_domains": [
+      "inclusivebookshop.com",
+      "diversereads.net",
+      "representedwords.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Sapphire Consulting Partners: Unlocking the brilliance within your business. Our team of experts provides comprehensive consulting services in the areas of strategic planning, digital transformation, and talent management.",
+    "target_domains": [
+      "sapphireconsultingpartners.com",
+      "sapphirebusinessinsights.com",
+      "sapphireorganizationaldevelopment.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge cybersecurity company that specializes in advanced threat detection, incident response, and data protection services. It leverages machine learning and artificial intelligence to proactively identify and mitigate complex cyber threats.",
+    "target_domains": [
+      "guardianai.com",
+      "securitydynamics.net",
+      "vigilantshield.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A financial education and personal finance media company that produces engaging content, including articles, podcasts, and video tutorials, to help individuals and families improve their financial literacy, make informed financial decisions, and achieve their long-term financial goals.",
+    "target_domains": [
+      "MoneyMastery.com",
+      "FinancialLifestyleMedia.net",
+      "PersonalFinanceAcademy.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive insurance and risk management firm that provides custom-tailored insurance solutions, including property and casualty, life, and employee benefits, for businesses of all sizes.",
+    "target_domains": [
+      "aegisriskadvisors.com",
+      "majesticinsurance.com",
+      "zionsrisk.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Management consulting services that help organizations improve their operational efficiency, streamline business processes, and enhance overall productivity and profitability.",
+    "target_domains": [
+      "operationaloptimizers.com",
+      "businessperformanceconsultants.net",
+      "managementstrategists.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge marketing technology company that provides businesses with a suite of tools and services to optimize their digital marketing strategies. It offers a comprehensive solution for data-driven customer segmentation, targeted advertising, marketing automation, and performance analytics.",
+    "target_domains": [
+      "marketingmavens.com",
+      "digimarketers.net",
+      "campaignoptimizer.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A boutique winery specializing in the production of premium, small-lot wines made from sustainably-grown grapes, with a focus on highlighting the unique terroir of the local region.",
+    "target_domains": [
+      "boutiquewinery.com",
+      "localterroirwines.net",
+      "sustainablevintage.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate technology startup that develops innovative platforms and tools to streamline the home-buying and selling process, leveraging machine learning and blockchain technology to provide greater transparency and efficiency.",
+    "target_domains": [
+      "RealtyTechInnovators.com",
+      "SmartHomeTransactions.com",
+      "BlockchainRealtyServices.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Shop",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "shop.com",
+      "shop.org",
+      "shop.net"
+    ]
+  },
+  {
+    "business_description": "Lumina Optoelectronics is a pioneering manufacturer of advanced optoelectronic components and systems for the telecommunications, healthcare, and defense sectors. Utilizing state-of-the-art photonics technology and a commitment to innovation, we produce high-performance optical devices that enable cutting-edge applications and drive progress in various industries.",
+    "target_domains": [
+      "luminaoptoelectronics.com",
+      "optoelectronicsmfg.net",
+      "luminaphotonics.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment firm that specializes in the acquisition, renovation, and management of multi-family properties. We offer attractive investment opportunities and a proven track record of delivering strong returns for our clients.",
+    "target_domains": [
+      "MFPropertyInvestors.com",
+      "InvestmentHomesGroup.net",
+      "MultiFamilyRealEstate.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A wellness-focused retail space offering a wide range of natural and organic health products, supplements, and holistic lifestyle goods. Promoting a balanced and mindful approach to wellbeing.",
+    "target_domains": [
+      "HolisticHaven.com",
+      "BalancedBoutique.com",
+      "MindfulMarket.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Nexus Consulting Solutions: Connecting the dots to unlock your business potential. Our team of experts provides tailored consulting services in the areas of strategic planning, operational optimization, and technology integration.",
+    "target_domains": [
+      "nexusconsultingsolutions.com",
+      "nexusbusinessstrategies.com",
+      "nexusoperationalefficiency.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile automotive detailing service that brings a high-end, professional-grade cleaning and reconditioning experience directly to customers' homes or workplaces, using eco-friendly products and techniques.",
+    "target_domains": [
+      "carshine.com",
+      "detailmasters.net",
+      "mobileshineauto.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Confluence Consulting Advisors: Converging expertise to drive business success. We offer comprehensive consulting services in the areas of strategic planning, operational efficiency, and market expansion.",
+    "target_domains": [
+      "confluenceconsultingadvisors.com",
+      "confluencebusinessinsights.com",
+      "confluencestrategicpartners.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "hate speech platform platform",
+    "target_domains": [
+      "I cannot generate domains for hate speech",
+      "Please provide a legitimate business description",
+      "This violates content policy"
+    ],
+    "should_block": true,
+    "example_type": "safety_refusal",
+    "category": "safety",
+    "generation_method": "manual_safety"
+  },
+  {
+    "business_description": "A pioneering insurance technology (insurtech) company providing innovative, user-friendly insurance products and services, including life, health, and property insurance, using advanced data analytics and machine learning to offer tailored coverage and competitive rates.",
+    "target_domains": [
+      "InnovatInsure.com",
+      "ProtectivePlans.net",
+      "ResilientRisk.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premier financial advisory firm specializing in estate planning, tax optimization, and family office services for ultra-high-net-worth individuals and multigenerational families.",
+    "target_domains": [
+      "estateplanning.com",
+      "familyoffice.net",
+      "wealthsolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A home healthcare agency that provides personalized, compassionate care for elderly, disabled, or chronically ill individuals, including skilled nursing services, physical therapy, and companionship.",
+    "target_domains": [
+      "CaringCompassion.com",
+      "HomeCareExperts.net",
+      "HealthyAtHome.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A high-end electronics and smart home store offering the latest technology products, as well as expert consultation and installation services for a seamless customer experience.",
+    "target_domains": [
+      "techtrends.com",
+      "smartsolutions.net",
+      "digitalhome.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Vigilant Security Systems is a specialized manufacturer of advanced security and surveillance equipment for government, commercial, and residential applications. Leveraging the latest advancements in sensor technology, data processing, and cybersecurity, we design and produce integrated security solutions that provide reliable protection and intelligence-gathering capabilities.",
+    "target_domains": [
+      "vigilantsecurity.com",
+      "securityequipmentmfg.net",
+      "vigilantdefense.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Specialty housewares and home decor store offering a carefully curated selection of high-quality, functional, and visually appealing products, catering to design-conscious consumers.",
+    "target_domains": [
+      "designfulhome.com",
+      "housewaresmartshop.net",
+      "homelifeessentials.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech startup that has developed a blockchain-based platform for secure and transparent cross-border payments, enabling faster, more cost-effective international money transfers for individuals and businesses.",
+    "target_domains": [
+      "globalpaychain.com",
+      "irisfinancial.com",
+      "transactiv.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate technology company that develops cutting-edge software and tools to streamline the home buying and selling process. Our solutions empower agents, brokers, and consumers with enhanced efficiency, transparency, and data-driven insights.",
+    "target_domains": [
+      "RealEstateWorkflow.com",
+      "PropTechInnovations.com",
+      "HomeTransactionHub.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern cannabis dispensary focused on providing a premium selection of high-quality, lab-tested, and responsibly-sourced cannabis products.",
+    "target_domains": [
+      "CannabisCuratorsCo.com",
+      "HighQualityHerbs.net",
+      "ResponsibleRemedies.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A precision agriculture technology company that provides data-driven solutions to help farmers optimize crop yields, conserve resources, and improve overall farm management. They leverage IoT sensors, drone technology, and big data analytics to deliver real-time insights and tailored recommendations for sustainable and efficient agricultural practices.",
+    "target_domains": [
+      "agritechsolutions.com",
+      "farmexcel.net",
+      "precisionagritech.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "ABC & Co. Consulting",
+    "category": "special_chars",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "abc.com",
+      "abc.org",
+      "abc.net"
+    ]
+  },
+  {
+    "business_description": "A healthcare IT solutions provider that specializes in developing and implementing electronic medical record (EMR) systems for hospitals, clinics, and private practices.",
+    "target_domains": [
+      "emrsolutions.com",
+      "medsystems.net",
+      "healthcareit.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern and stylish fashion accessory retailer focused on providing a unique selection of high-quality bags, jewelry, scarves, and other trendy fashion items.",
+    "target_domains": [
+      "FashionFlair.com",
+      "TrendyAccessories.net",
+      "StyleSavvy.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive corporate wellness program that combines biometric screenings, personalized health coaching, and data-driven interventions to help employers improve the overall health and well-being of their workforce, leading to increased productivity, reduced healthcare costs, and a stronger, more engaged team.",
+    "target_domains": [
+      "wellnesscollective.com",
+      "corporatehealthhub.net",
       "employeewellness.org"
     ],
-    "complexity": 11,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 13
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "enterprise-level sales and customer service training for big brands",
-    "business_type": "education_training",
+    "business_description": "A luxury car dealership offering a curated selection of high-end, pre-owned vehicles from the world's top automotive brands, with a focus on exceptional customer service and a premium purchasing experience.",
     "target_domains": [
-      "salesacademy.com",
-      "customerCXtraining.net",
-      "brandedlearning.org"
+      "elitecars.com",
+      "premiumrides.net",
+      "luxuryleague.org"
     ],
-    "complexity": 9,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 17
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "luxury fashion and beauty e-commerce platform for high-end designer brands",
-    "business_type": "e-commerce",
+    "business_description": "A real estate brokerage and property management firm specializing in the student housing market. Offering tailored services for investors, developers, and university-affiliated housing programs.",
     "target_domains": [
-      "luxelifestyle.com",
-      "designercollection.net",
-      "highendfashion.org"
+      "CampusProperties.com",
+      "StudentHousingExperts.net",
+      "UniversityHomes.org"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 14
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "urban electric bike and scooter sharing service for environmentally-conscious commuters",
-    "business_type": "automotive_transportation",
+    "business_description": "A human resources consulting practice that provides expert guidance on talent management, employee engagement, and organizational development.",
     "target_domains": [
-      "GreenCommute.com",
-      "UrbanEcoRide.net",
-      "EcoTransport.org"
+      "TalentFocus.com",
+      "HRAdvisors.net",
+      "OrgEvolution.org"
     ],
-    "complexity": 15,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 9
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "online platform connecting homeowners with property management services for vacation rentals",
-    "business_type": "real_estate",
+    "business_description": "A financial technology company that develops cutting-edge digital banking solutions, including mobile banking apps, online lending platforms, and AI-powered financial management tools.",
     "target_domains": [
-      "vacationmanagement.com",
-      "rentalhelp.net",
-      "homevacations.biz"
+      "digitalbanking.com",
+      "financialtechnology.net",
+      "smartfinance.io"
     ],
-    "complexity": 14,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 38
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Startup offering project management certification courses and professional development workshops",
-    "business_type": "education_training",
+    "business_description": "A real estate brokerage and property management company that caters to the specific needs of the agricultural and rural real estate market. Offering expertise in the acquisition, leasing, and stewardship of farmland, ranches, and other rural properties for both commercial and lifestyle purposes.",
     "target_domains": [
-      "certifiedpm.com",
-      "prodevworkshops.net",
-      "projectmgmtacademy.org"
+      "RuralRealtyExperts.com",
+      "FarmAndRanchSolutions.net",
+      "AgriculturalPropertyGroup.org"
     ],
-    "complexity": 14,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 47
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Certified public accounting firm providing audit, tax, and advisory services to family-owned businesses and high-net-worth individuals",
-    "business_type": "accounting",
+    "business_description": "Precision Energy Manufacturing - Designing and producing high-efficiency energy systems and components, including solar panels, wind turbines, and energy storage solutions, for the renewable energy industry.",
     "target_domains": [
-      "familybusinesscpas.com",
-      "wealthmanagementadvisors.net",
-      "highnetworththinktank.org"
+      "energymfg.com",
+      "renewablemanufacturing.net",
+      "advancedenergysystems.org"
     ],
-    "complexity": 16,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 42
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "On-demand mobile car detailing service for busy professionals in San Francisco",
-    "business_type": "automotive",
+    "business_description": "A specialized consulting firm that helps organizations in the education sector enhance teaching and learning outcomes, optimize administrative processes, and implement innovative technologies to improve student engagement, boost academic performance, and foster a more inclusive, equitable learning environment.",
     "target_domains": [
-      "sfcardetail.com",
-      "mobilecleaners.net",
-      "conveniencedetail.org"
+      "EdTechConsultants.com",
+      "EducationOptimizers.net",
+      "LearningImpactAdvisors.org"
     ],
-    "complexity": 11,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 19
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Upscale farm-to-table restaurant featuring seasonal, locally-sourced ingredients in suburban Chicago",
-    "business_type": "food_service",
+    "business_description": "Innovative education technology company specializing in the development of immersive virtual reality and augmented reality learning experiences, transforming the way students engage with and retain educational content.",
     "target_domains": [
-      "chicagotablefarm.com",
-      "thefarmkitchen.net",
-      "seasonalechicago.org"
+      "vrlearning.com",
+      "augmentededucation.net",
+      "immersiveclassroom.org"
     ],
-    "complexity": 13,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 40
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Enterprise-level virtual physical therapy and rehabilitation services for patients nationwide",
-    "business_type": "healthcare_wellness",
+    "business_description": "A medical research and development company focused on the discovery and development of innovative, evidence-based treatments for rare and neglected diseases, with a commitment to improving global health equity.",
     "target_domains": [
-      "virtualhealthecare.com",
-      "nationalrehabcenter.net",
-      "rehabanywhere.org"
+      "raremedicines.com",
+      "healthequity.net",
+      "globalhealth.healthcare"
     ],
-    "complexity": 13,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 23
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Comprehensive legal services for startups and small businesses in the Pacific Northwest",
-    "business_type": "legal",
+    "business_description": "A professional development and training platform that offers a wide range of online and in-person courses, workshops, and certification programs to help educators, administrators, and education support staff enhance their skills, knowledge, and leadership abilities.",
     "target_domains": [
-      "pnwlegal.com",
-      "startuplawfirm.net",
-      "smallbizattorney.org"
+      "educatoracademy.com",
+      "learningpro.net",
+      "schoolexcellence.org"
     ],
-    "complexity": 12,
-    "location_type": "regional",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 12
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "hate speech",
-    "category": "safety",
-    "should_block": true,
-    "generation_method": "claude_api",
+    "business_description": "Specialized medical device research and development with FDA regulatory compliance consulting",
+    "category": "long",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "I cannot generate domain names for this type of content",
-      "Please provide a legitimate business description",
-      "This request violates content policy"
-    ],
-    "example_type": "safety_refusal"
+      "specialized.com",
+      "specialized.org",
+      "specialized.net"
+    ]
   },
   {
-    "business_description": "Rural outdoor leadership school providing wilderness skills training, team-building programs, and personal development courses for youth and adults",
-    "business_type": "education_training",
+    "business_description": "A modern and stylish clothing and accessories store featuring a carefully curated selection of sustainable, ethically-produced, and locally-sourced fashion items. Catering to the conscious consumer.",
     "target_domains": [
-      "ruralretreat.com",
-      "adventureacademy.org",
-      "leadershipintheoutdoors.net"
+      "EthicalElegance.com",
+      "SustainableStyle.com",
+      "ConsciousCloset.com"
     ],
-    "complexity": 17,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 27
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Suburban physical therapy and rehabilitation clinic specializing in sports injuries and performance enhancement",
-    "business_type": "healthcare_wellness",
+    "business_description": "A technology-driven home improvement retailer offering a wide range of tools, hardware, and home renovation products, with a focus on innovative and energy-efficient solutions.",
     "target_domains": [
-      "suburbansportsrehab.com",
-      "suburbanhighperformance.net",
-      "suburbanphysicalwellness.org"
+      "renovationcenter.com",
+      "smarterhome.net",
+      "energyefficientshoppe.co"
     ],
-    "complexity": 16,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 23
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Enterprise-level cybersecurity training and certification programs for IT professionals",
-    "business_type": "education_training",
+    "business_description": "An educational app that uses gamification and adaptive learning algorithms to make the learning process more fun and effective, tailoring the content and pace to the individual needs and preferences of each student.",
     "target_domains": [
-      "cybersecurityacademy.com",
-      "itprotrainingcenter.net",
-      "certifiedinfotech.org"
+      "learnplay.com",
+      "smartedu.net",
+      "edugames.org"
     ],
-    "complexity": 13,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 47
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Urban software engineering agency building custom web applications",
-    "business_type": "technology",
+    "business_description": "A data science and machine learning consulting firm that helps organizations unlock the power of their data to drive strategic decision-making and gain a competitive edge. It offers a range of services, including data analysis, predictive modeling, and algorithm development.",
     "target_domains": [
-      "citycoding.com",
-      "urbanwebdev.net",
-      "customapps.io"
+      "datamagic.com",
+      "insightlabs.net",
+      "analyticsedge.io"
     ],
-    "complexity": 10,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 1
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Commercial real estate brokerage specializing in leasing and sales of retail, office, and industrial spaces",
-    "business_type": "real_estate",
+    "business_description": "An educational marketplace that connects homeschooling families with a diverse network of specialized tutors, subject-matter experts, and enrichment activity providers, offering a one-stop-shop for customized homeschooling resources and support.",
     "target_domains": [
-      "commercialpropertybroker.com",
-      "retailandoffice.net",
-      "industrialrealestate.org"
+      "homeschoolhub.com",
+      "learningcircle.net",
+      "homeedu.org"
     ],
-    "complexity": 19,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 28
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "multimedia production studio specializing in commercial videography and virtual event services",
-    "business_type": "creative_services",
+    "business_description": "A patient-centric digital health marketplace that connects individuals with a curated network of healthcare providers, allowing them to schedule appointments, access medical records, and communicate securely, all from a single, user-friendly platform.",
     "target_domains": [
-      "stardustproductions.com",
-      "eventfilms.video",
-      "brandstudiola.com"
+      "healthcarehub.com",
+      "myhealthmatters.net",
+      "wellnessconnect.org"
     ],
-    "complexity": 14,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 25
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Youth sports league offering competitive and recreational programs for soccer, basketball, and volleyball",
-    "business_type": "fitness_sports",
+    "business_description": "A specialized medical clinic that offers comprehensive care and treatment for sleep disorders, including sleep apnea, insomnia, and other sleep-related issues.",
     "target_domains": [
-      "localleague.com",
-      "communityathletics.net",
-      "youthsports.org"
+      "sleeprestore.com",
+      "sleepwellclinic.net",
+      "sleepspecialists.org"
     ],
-    "complexity": 12,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 26
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Esports and gaming facility with state-of-the-art equipment and professional coaching",
-    "business_type": "sports",
+    "business_description": "A real estate investment and development company specializing in the acquisition and redevelopment of historic properties, preserving cultural heritage while creating modern, sustainable living and working spaces.",
     "target_domains": [
-      "esportshub.com",
-      "gamingcenter.net",
-      "proplayerstudios.org"
+      "nyhistorichomes.com",
+      "nyheritage-properties.com",
+      "nyrealtyadventures.com"
     ],
-    "complexity": 12,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 16
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "biophotonics research center",
+    "business_description": "A retirement planning and wealth management firm that specializes in helping clients navigate the complexities of retirement, including retirement income planning, investment management, tax optimization, and estate planning.",
+    "target_domains": [
+      "RetirementWealthStrategists.com",
+      "LifetimeFinancialSolutions.net",
+      "FinancialSecurityAdvisors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical research and development company that specializes in the development of innovative, evidence-based treatments and therapies for rare and complex medical conditions.",
+    "target_domains": [
+      "MedResearch.com",
+      "CureBio.net",
+      "InnovativeCare.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Web",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "web.com",
+      "web.org",
+      "web.net"
+    ]
+  },
+  {
+    "business_description": "A specialty kitchen and dining retailer providing a unique selection of premium cookware, bakeware, and kitchen gadgets, as well as a range of high-quality tableware and serveware.",
+    "target_domains": [
+      "culinarykreations.com",
+      "premiumkitchenco.net",
+      "diningelementsshop.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An educational non-profit organization that works to promote STEM (Science, Technology, Engineering, and Mathematics) education, offering hands-on learning programs, coding workshops, and maker spaces to inspire and empower students, especially in underserved communities, to pursue careers in these critical fields.",
+    "target_domains": [
+      "STEMForAll.org",
+      "EducationInnovation.com",
+      "STEM-Academy.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A biotechnology company that leverages artificial intelligence and machine learning to accelerate drug discovery and development, with a focus on personalized medicine and rare disease treatments.",
+    "target_domains": [
+      "bioailab.com",
+      "precisionmedicine.net",
+      "advancedtherapeutics.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A food technology startup that leverages artificial intelligence, computer vision, and robotics to develop autonomous farming and precision agriculture solutions, helping farmers optimize crop yields, reduce waste, and increase sustainability.",
+    "target_domains": [
+      "agritechpioneer.com",
+      "farmofthefuture.net",
+      "croptechsolutions.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical research institute that focuses on advancing the understanding and treatment of neurological disorders, with a particular emphasis on Alzheimer's disease and other forms of dementia.",
+    "target_domains": [
+      "neuroscience.com",
+      "brainresearch.net",
+      "dementiacare.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty food and beverage retailer focused on providing a curated selection of gourmet, artisanal, and locally-sourced products, including specialty ingredients, fine wines, and craft spirits.",
+    "target_domains": [
+      "gourmetshoppe.com",
+      "artisanalaisle.net",
+      "localflavorsco.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A social-emotional learning (SEL) platform that provides schools and districts with a comprehensive suite of tools, resources, and professional development programs to foster the holistic development of students.",
+    "target_domains": [
+      "selmatters.org",
+      "emotionallearning.com",
+      "mindfulschools.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate auction house that specializes in the sale of foreclosed, distressed, and unique properties. We offer a transparent and efficient auction process, providing buyers with access to a diverse portfolio of investment opportunities and allowing sellers to maximize their returns.",
+    "target_domains": [
+      "PropertyAuctionExchange.com",
+      "DistressedHomeSales.net",
+      "UniquePropertyAuctions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A virtual reality-based rehabilitation platform that offers immersive, gamified therapy sessions for patients recovering from various physical and neurological conditions, enhancing engagement and improving clinical outcomes.",
+    "target_domains": [
+      "rehabvr.com",
+      "virtualtherapy.net",
+      "immersiverehab.healthcare"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A boutique automotive rental service, providing a curated selection of luxury, exotic, and specialty vehicles for short-term and long-term rentals. Catering to discerning clients with a passion for premium automobiles.",
+    "target_domains": [
+      "luxuryautorental.com",
+      "exoticcarexperience.com",
+      "specialtyvehiclerentals.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern ice cream shop specializing in unique, small-batch flavors made with premium, all-natural ingredients and inspired by global cuisines.",
+    "target_domains": [
+      "CreameryCollective.com",
+      "FlavorFusion.com",
+      "InnovativeIndulgence.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A vertical farming operation that uses advanced, hydroponic technology to grow a variety of fresh, nutrient-dense leafy greens and herbs year-round, supplying local restaurants, grocery stores, and consumers with a consistent, sustainable source of locally-grown produce.",
+    "target_domains": [
+      "VerticalFreshProduce.com",
+      "HydroponicsHarvest.com",
+      "LocalLeafyGreens.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge manufacturing company specializing in the production of high-quality, eco-friendly building materials. Our innovative processes and commitment to sustainability set us apart in the industry.",
+    "target_domains": [
+      "greenbuildsolutions.com",
+      "sustainablematerials.net",
+      "ecoconstructionco.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A sustainability consulting firm that partners with organizations to develop and implement comprehensive environmental, social, and governance (ESG) strategies.",
+    "target_domains": [
+      "SustainabilityAdvisors.com",
+      "ESGExperts.net",
+      "GreenTransformation.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A technology-driven real estate platform that connects buyers and sellers with the most up-to-date market data, advanced search tools, and a network of experienced agents. We prioritize transparency, efficiency, and customer satisfaction.",
+    "target_domains": [
+      "RealtyTechHub.com",
+      "SmartHomeSearch.net",
+      "PropertyConnectApp.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized consulting firm that partners with clients in the real estate and construction sectors to optimize project management, improve sustainability and energy efficiency, and leverage innovative technologies to enhance building performance, reduce operational costs, and drive long-term value.",
+    "target_domains": [
+      "ConstructionOptimizers.com",
+      "SustainableBuildings.net",
+      "RealEstateTech.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A small-batch, craft kombucha brewery and taproom offering a rotating selection of unique, artisanal kombucha flavors made with high-quality, organic ingredients and incorporating locally-sourced produce and botanicals.",
+    "target_domains": [
+      "ArtisanalBucha.com",
+      "BoochBrewing.net",
+      "LocallyBrewed.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A small-batch, artisanal jam and preserve maker that sources its ingredients from local, sustainable farms. The company offers a diverse selection of unique and innovative flavors, as well as classic favorites, all made using traditional techniques and natural, high-quality ingredients.",
+    "target_domains": [
+      "LocalPreservesShop.com",
+      "ArtisanalJamsAndPreserves.net",
+      "SustainablePreserveCreations.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive healthcare staffing agency that connects top-tier medical professionals, including physicians, nurses, and allied health personnel, with healthcare organizations in need of skilled and experienced talent to deliver exceptional patient care.",
+    "target_domains": [
+      "medhealthstaff.com",
+      "healthcarerecruiters.com",
+      "clinicaltalentnetwork.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive automotive financing and leasing company that provides a wide range of flexible and tailored solutions, including personal and commercial vehicle loans, refinancing options, and innovative leasing programs to meet the diverse needs of customers.",
+    "target_domains": [
+      "AutoFinanceHub.com",
+      "VehicleLeasingExperts.com",
+      "ComprehensiveCarFinance.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical supply chain management platform that connects healthcare providers with a network of vetted suppliers, enabling efficient and cost-effective procurement of essential medical equipment and supplies.",
+    "target_domains": [
+      "MedSupplyChain.com",
+      "HealthcareLogistics.net",
+      "CareSupport.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premier manufacturer of custom-engineered, energy-efficient HVAC systems and components for the residential, commercial, and industrial building markets.",
+    "target_domains": [
+      "EnergyEfficiencyHVAC.com",
+      "CustomClimateControl.net",
+      "IndustrialClimateSolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile app and online platform that connects home cooks with a network of vetted, private chefs who offer personalized, in-home dining experiences, catering to busy individuals and families who want to enjoy restaurant-quality meals in the comfort of their own homes.",
+    "target_domains": [
+      "ChefAtHome.com",
+      "DiningCircle.com",
+      "PrivateChefConnect.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A contemporary furniture and home decor store, featuring a curated selection of modern, sustainable, and multifunctional designs. Catering to design-conscious individuals seeking to create functional and visually-appealing living spaces.",
+    "target_domains": [
+      "ModernHomeSolutions.com",
+      "SustainableInteriors.com",
+      "MultifunctionalHome.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment and asset management firm focused on acquiring and repositioning underperforming properties. We leverage our expertise in renovation, leasing, and property management to generate strong returns for our investors.",
+    "target_domains": [
+      "ValueAddRealEstate.com",
+      "OpportunisticPropertyInvest.com",
+      "DistressedAssetAdvisors.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A community-driven platform that empowers parents to collaborate, share resources, and access personalized support for their children's educational journey.",
+    "target_domains": [
+      "ParentEducators.com",
+      "FamilyLearning.net",
+      "EducationCommunity.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty grocery store that offers a curated selection of international and artisanal food products, including hard-to-find ingredients, gourmet pantry items, and unique culinary experiences. The store caters to food enthusiasts and adventurous home cooks.",
+    "target_domains": [
+      "GourmetGlobalGrocer.com",
+      "ArtisanalPantryShop.com",
+      "CulinaryAdventureStore.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Comprehensive educational technology solutions and learning management systems for K-12 and higher education",
+    "category": "long",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "comprehensiv.com",
+      "comprehensiv.org",
+      "comprehensiv.net"
+    ]
+  },
+  {
+    "business_description": "Professional bubble wrap popping therapy",
     "category": "niche",
-    "should_block": false,
-    "generation_method": "claude_api",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "biophotonics.com",
-      "biophotonics.org",
-      "biophotonics.net"
+      "professional.com",
+      "professional.org",
+      "professional.net"
     ]
   },
   {
-    "business_description": "luxury e-commerce marketplace for high-end, one-of-a-kind home furnishings and art pieces",
-    "business_type": "e-commerce",
+    "business_description": "Advanced Biotechnology Manufacturing - Specializing in the development and production of innovative biotechnology products, including pharmaceuticals, medical devices, and agricultural products.",
     "target_domains": [
-      "luxurylivingshop.com",
-      "oneofahome.net",
-      "premierhomegoods.org"
+      "biotechmfg.com",
+      "custombioproducts.net",
+      "advancedbiotech.org"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "health-focused vegan fast-casual restaurant featuring plant-based whole food cuisine",
-    "business_type": "food_beverage",
+    "business_description": "A collaborative education technology platform that connects teachers, students, and parents, enabling seamless communication, resource sharing, and project-based learning opportunities to foster a more engaging and inclusive learning environment.",
     "target_domains": [
-      "veganwell.com",
-      "wholefoodcafe.net",
-      "plantbasedfast.food"
+      "classroomconnect.com",
+      "edutogether.net",
+      "learningnetwork.org"
     ],
-    "complexity": 9,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 20
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Boutique cycling studio with innovative fitness classes",
-    "business_type": "fitness",
+    "business_description": "A comprehensive medical imaging and diagnostics company that leverages advanced AI-powered analysis to deliver precise and timely results, helping healthcare providers make more informed clinical decisions.",
     "target_domains": [
-      "cycleyoga.com",
-      "cyclestudioboutique.fitness",
-      "ridecyclefitness.studio"
+      "imagediagnostics.com",
+      "medicalai.net",
+      "precisiondiagnostics.org"
     ],
-    "complexity": 9,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 36
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "startup developing mobile apps for mental health and mindfulness practices",
-    "business_type": "health_wellness",
+    "business_description": "A real estate investment firm that specializes in acquiring and managing commercial properties, such as office buildings, retail spaces, and industrial facilities, to generate steady returns for its investors.",
     "target_domains": [
-      "mindfulnessapps.com",
-      "mentalwellnesstech.net",
-      "mobilemeditation.org"
+      "CommercialPropertyInvestors.com",
+      "IncomePropInvestments.com",
+      "CommercialRealEstateHub.com"
     ],
-    "complexity": 10,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 3
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Integrative physical therapy clinic with specialized sports rehab",
-    "business_type": "fitness",
+    "business_description": "A strategy and operations consulting firm that partners with clients to develop and execute holistic solutions, driving operational excellence, cost optimization, and continuous improvement.",
     "target_domains": [
-      "sportsrehab.com",
-      "integrativept.clinic",
-      "athleticperformance.physio"
+      "StrategicPerformance.com",
+      "OptimizerExperts.net",
+      "ImprovementAdvisors.org"
     ],
-    "complexity": 10,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 36
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Rural cybersecurity firm specializing in small business solutions",
-    "business_type": "technology",
+    "business_description": "A cutting-edge manufacturer of smart, connected industrial IoT devices and systems. We leverage our expertise in advanced electronics, software engineering, and manufacturing to deliver innovative solutions that enable our customers to optimize their operations, enhance productivity, and drive digital transformation.",
     "target_domains": [
-      "ruralcyber.com",
-      "smallbizshield.net",
-      "countrycybersecurity.io"
+      "industrialiot.com",
+      "connectedmanufacturing.net",
+      "smarttechsolutions.org"
     ],
-    "complexity": 10,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 1
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "farm-to-table restaurant showcasing seasonal ingredients from local producers in a rustic, countryside setting",
-    "business_type": "food_service",
+    "business_description": "Medieval manuscript illumination services",
+    "category": "niche",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "farmtotable.restaurant",
-      "localharvestcafe.com",
-      "countrycuisine.net"
-    ],
-    "complexity": 12,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 10
+      "medieval.com",
+      "medieval.org",
+      "medieval.net"
+    ]
   },
   {
-    "business_description": "landscape design and outdoor living studio serving high-end residential and commercial clients",
-    "business_type": "creative_services",
+    "business_description": "A farm-to-table restaurant that showcases the best of the local food system, featuring a rotating menu of seasonal, locally-sourced ingredients prepared in a contemporary, elevated style.",
     "target_domains": [
-      "luxurylandscapes.com",
-      "idealoutdoors.net",
-      "gardendesignstudio.co"
+      "localfoodstories.com",
+      "seasonalshare.net",
+      "farmtotableexperience.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 25
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Residential real estate agency focused on first-time homebuyers and young families in growing suburban areas",
-    "business_type": "real_estate",
+    "business_description": "A customer-centric consumer finance company offering a wide range of personal loans, debt consolidation solutions, and financial wellness programs to help individuals improve their financial well-being.",
     "target_domains": [
-      "firsttimehomes.com",
-      "suburbfamilyhomes.net",
-      "younghomebuyers.org"
+      "personallending.com",
+      "debthelp.net",
+      "financialwellness.org"
     ],
-    "complexity": 18,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 28
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Enterprise-level accounting and tax services for large corporations and public entities",
-    "business_type": "professional_services",
+    "business_description": "An educational enrichment program that offers a wide range of extracurricular activities, such as STEM workshops, arts and crafts classes, and cultural immersion experiences, to help students develop their interests, skills, and creativity outside the traditional classroom setting.",
     "target_domains": [
-      "corporatetaxservices.com",
-      "enterpriseaccounting.net",
-      "publicsectorfinance.org"
+      "discoverylearning.com",
+      "eduenrichment.net",
+      "learningbeyond.org"
     ],
-    "complexity": 13,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 22
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "online automation software for small and medium businesses",
-    "business_type": "software",
+    "business_description": "A small-batch, artisanal coffee roaster that sources premium, ethically-traded coffee beans from around the world and crafts a variety of unique, flavor-forward coffee blends.",
     "target_domains": [
-      "automate.com",
-      "smbautomation.net",
-      "workflowsolutions.io"
+      "worldcoffeeartisans.com",
+      "ethicallyroasted.net",
+      "flavorexplorations.org"
     ],
-    "complexity": 10,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 31
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "urban software engineering agency specializing in fintech",
-    "business_type": "technology",
+    "business_description": "A technology-driven automotive research and development firm, specializing in advanced driver assistance systems (ADAS), autonomous vehicle technologies, and cutting-edge automotive innovations.",
     "target_domains": [
-      "citycodegeeks.com",
-      "fintechbuilders.net",
-      "urbanengineers.io"
+      "adastechlab.com",
+      "autonomousautomotive.com",
+      "automotiveinnovationhub.com"
     ],
-    "complexity": 9,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 31
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "family-owned farm stand selling fresh produce in rural Indiana",
-    "business_type": "retail",
+    "business_description": "A mobile app that empowers patients to manage their healthcare more effectively, with features such as medication reminders, symptom tracking, and secure communication with their care team.",
     "target_domains": [
-      "indianafarmstand.com",
-      "freshveggies.farm",
-      "ruralindianaproduce.net"
+      "HealthyLife.com",
+      "CareAssist.net",
+      "MedGuide.org"
     ],
-    "complexity": 9,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Boutique cycling studio with high-energy spin classes and personal training services in downtown Los Angeles",
-    "business_type": "fitness_sports",
+    "business_description": "A specialty toy retailer focused on educational, creative, and sustainable toys and games for children of all ages, with a commitment to promoting learning and imagination.",
     "target_domains": [
-      "lacycling.com",
-      "dtlaspin.net",
-      "angelescycling.org"
+      "imaginationtoys.com",
+      "creativekidsshop.net",
+      "sustainabletoybox.co"
     ],
-    "complexity": 16,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 26
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "farm-to-table restaurant focused on seasonal Californian cuisine in a rustic countryside setting",
-    "business_type": "food_beverage",
+    "business_description": "A boutique consulting firm that provides expert guidance to organizations in the agriculture and food production sectors, helping them optimize sustainable farming practices, enhance supply chain operations, and leverage emerging technologies to improve yield, reduce waste, and meet the growing demand for sustainable, traceable food products.",
     "target_domains": [
-      "seasonalcuisine.com",
-      "farmdiner.restaurant",
-      "countrycuisine.net"
+      "SustainableAgricultureConsulting.com",
+      "FoodSupplyChainOptimizers.net",
+      "AgTechAdvisors.org"
     ],
-    "complexity": 12,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 20
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "enterprise software solution for supply chain optimization and logistics management",
-    "business_type": "e-commerce",
+    "business_description": "A specialist mortgage lender focusing on providing tailored financing solutions for real estate investors, including investment property loans, fix-and-flip financing, and commercial mortgages, with a commitment to streamlined application processes and competitive rates.",
     "target_domains": [
-      "supplychain.com",
-      "enterpriselogistics.net",
-      "optimizedshipments.org"
+      "InvestorMortgage.com",
+      "CapitalAssets.net",
+      "PinnacleLoans.co"
     ],
-    "complexity": 12,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 14
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "family-owned artisanal bakery and cafe in downtown Seattle",
-    "business_type": "food_beverage",
+    "business_description": "A telehealth platform that connects patients with licensed medical professionals for virtual consultations, offering personalized care plans and medication management.",
     "target_domains": [
-      "seattlebakery.com",
-      "artisanaldining.seattle",
-      "familyownedcafe.net"
+      "emedconsult.com",
+      "virtualhealthhub.net",
+      "medlinkonline.org"
     ],
-    "complexity": 10,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 45
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "fast-casual Mexican restaurant chain serving authentic regional cuisine",
-    "business_type": "food_beverage",
+    "business_description": "A digital-first financial advisory firm that provides personalized wealth management solutions, including tax optimization, estate planning, and retirement planning.",
     "target_domains": [
-      "mexifresh.com",
-      "regionaltaco.net",
-      "autentico.org"
+      "wealthadvisors.com",
+      "financialplanning.net",
+      "privateclient.io"
     ],
-    "complexity": 9,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 0
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Small family-owned health and wellness retreat center providing restorative experiences in rural Vermont",
-    "business_type": "healthcare_wellness",
+    "business_description": "phishing and scam operation",
     "target_domains": [
-      "vermontretreatcenter.com",
-      "ruralhealthandwellness.net",
-      "vermontrestorative.org"
+      "I cannot generate domains for scams",
+      "Please provide a legitimate business description",
+      "This violates content policy"
     ],
-    "complexity": 16,
-    "location_type": "rural",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 23
+    "should_block": true,
+    "example_type": "safety_refusal",
+    "category": "safety",
+    "generation_method": "manual_safety"
   },
   {
-    "business_description": "rural helicopter tour service offering sightseeing flights over scenic countryside",
-    "business_type": "automotive_transportation",
+    "business_description": "A fintech startup that develops cutting-edge financial technology solutions, including digital banking platforms, mobile payment apps, and AI-powered personal finance tools for consumers and small businesses.",
     "target_domains": [
-      "CountrysideChopper.com",
-      "RuralAerial.net",
-      "PanoramicFlights.org"
+      "fintechfuture.com",
+      "digitaldirections.net",
+      "smartmoney.org"
     ],
-    "complexity": 14,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 9
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "luxury stationery and calligraphy design boutique in Paris",
-    "business_type": "design",
+    "business_description": "Net",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "paristyle.com",
-      "elegantcalligraphy.net",
-      "luxurysuite.paris"
-    ],
-    "complexity": 10,
-    "location_type": "urban",
-    "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 45
+      "net.com",
+      "net.org",
+      "net.net"
+    ]
   },
   {
-    "business_description": "small-town software development agency specializing in fintech",
-    "business_type": "technology",
+    "business_description": "A software company specializing in the development of cutting-edge artificial intelligence algorithms for advanced analytics and predictive modeling. The company's innovative solutions help enterprises make data-driven decisions and gain a competitive edge.",
     "target_domains": [
-      "smalltowndev.com",
-      "fintechexperts.net",
-      "tinygeeks.io"
+      "aianalytics.com",
+      "predictivetech.io",
+      "insightai.net"
     ],
-    "complexity": 9,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 31
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Healthy fast-casual restaurant with a menu of customizable salads, bowls, and smoothies in downtown Seattle",
-    "business_type": "food_service",
+    "business_description": "A farm-to-table restaurant and community gathering space highlighting the best seasonal and regionally-sourced ingredients through an ever-changing menu of innovative and flavorful dishes.",
     "target_domains": [
-      "seattlehealthyeats.com",
-      "bowlsandbites.net",
-      "eatfreshseattle.org"
+      "FarmhouseTable.com",
+      "SeasonalBistro.net",
+      "LocalEats.co"
     ],
-    "complexity": 17,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 40
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Small family-owned integrative medicine practice providing naturopathic and functional medicine in rural Maine",
-    "business_type": "healthcare_wellness",
+    "business_description": "A leading producer of advanced, high-performance materials and coatings for the aerospace, defense, and industrial sectors. We leverage our expertise in materials science, precision manufacturing, and quality control to develop innovative solutions that enhance the performance, durability, and reliability of our customers' products.",
     "target_domains": [
-      "mainenaturopathic.com",
-      "mainefunctionalmedicine.net",
-      "maineintegrativewellness.org"
+      "advancedmaterials.com",
+      "precisioncoatings.net",
+      "qualitymanufacturing.org"
     ],
-    "complexity": 16,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 23
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "independent natural pet food and supply store catering to health-conscious pet owners",
-    "business_type": "retail",
+    "business_description": "A leading manufacturer of advanced, energy-efficient HVAC systems and components for residential, commercial, and industrial applications. Committed to developing innovative solutions that improve comfort and reduce environmental impact.",
     "target_domains": [
-      "naturalpetstore.com",
-      "healthypets.net",
-      "pethappiness.org"
+      "energyefficienthvac.com",
+      "advancedhvacmanufacturing.net",
+      "sustainableclimatesolutions.org"
     ],
-    "complexity": 10,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 24
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Startup offering online mindfulness and meditation classes for personal growth",
-    "business_type": "education_training",
+    "business_description": "A mobile app that uses artificial intelligence to provide personalized health coaching and wellness recommendations based on user data, biometrics, and lifestyle factors.",
     "target_domains": [
-      "mindfulnessacademy.com",
-      "meditationmatters.net",
-      "personalgrowthtools.org"
+      "lifesmart.health",
+      "wellnessai.com",
+      "healthyhabits.app"
     ],
-    "complexity": 13,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 47
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "machine learning AI-powered SaaS platform",
+    "business_description": "A financial technology company that develops innovative digital banking and payment solutions, including mobile banking apps, digital wallets, and blockchain-based remittance services, to improve financial inclusion and accessibility for consumers and small businesses.",
+    "target_domains": [
+      "fintechwizards.com",
+      "digitaldollars.net",
+      "financialfreedom.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A community-supported agriculture (CSA) program that partners with local, sustainable farms to provide members with a weekly or bi-weekly box of fresh, seasonal produce, meat, dairy, and other artisanal food products, promoting local food systems and supporting small-scale agriculture.",
+    "target_domains": [
+      "LocalHarvestBox.com",
+      "FarmersMarketDelivery.com",
+      "SupportLocalEats.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A financial education and literacy platform that offers online courses, interactive workshops, and personalized coaching to help individuals and families improve their financial knowledge, budgeting skills, and long-term financial well-being.",
+    "target_domains": [
+      "FinancialLiteracyAcademy.com",
+      "MoneyWiseDom.net",
+      "PersonalFinanceCoach.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized automotive upholstery and interior restoration service, offering expert craftsmanship and custom solutions to revitalize the look and feel of vehicle interiors.",
+    "target_domains": [
+      "interiorcustom.com",
+      "carinteriorpros.net",
+      "autoupholsterystudio.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile app and web-based platform that offers a gamified, adaptive learning experience to help elementary and middle school students master core academic subjects, such as math, reading, and science.",
+    "target_domains": [
+      "edugame.com",
+      "learnandplay.net",
+      "studyadventure.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Specialty food incubator and shared commercial kitchen space that supports the growth of local, independent food entrepreneurs, offering access to resources, mentorship, and a collaborative community.",
+    "target_domains": [
+      "FoodFoundry.com",
+      "LocalFoodLaunchpad.com",
+      "CulinaryCollective.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A commercial lending firm that provides customized financing options, including commercial mortgages, business loans, and equipment leasing, to small and medium-sized enterprises, helping them expand their operations and achieve their growth objectives.",
+    "target_domains": [
+      "CommercialFinancePartners.com",
+      "BusinessGrowthLoans.net",
+      "SMEFinancialSolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A dynamic, vertically integrated manufacturer of advanced textiles and fabrics for the apparel, home furnishings, and industrial sectors. Our innovative production processes, commitment to sustainability, and exceptional quality have made us a leader in the industry.",
+    "target_domains": [
+      "textilemfg.com",
+      "qualityfabrics.net",
+      "sustainabletextiles.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A data-driven automotive research and consulting firm that provides in-depth market analysis, consumer insights, and strategic advisory services to help automakers, dealerships, and industry stakeholders make informed decisions and stay ahead of market trends.",
+    "target_domains": [
+      "AutoIndustryAnalytics.com",
+      "AutomotiveMarketResearch.com",
+      "VehicleConsultingServices.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate brokerage that caters to the unique needs of foreign investors, offering specialized services such as international market research, cross-border transaction support, and property management solutions to help clients navigate the complexities of overseas real estate investments.",
+    "target_domains": [
+      "GlobalRealtyAdvisors.com",
+      "InternationalPropertyExperts.com",
+      "OverseasInvestmentRealty.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A strategy and innovation consulting firm that works with clients to develop and execute transformative business strategies, foster a culture of innovation, and unlock new growth opportunities in a rapidly evolving market.",
+    "target_domains": [
+      "strategyinnovators.com",
+      "innovationcatalysts.net",
+      "growthaccelerators.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive fleet management and logistics company providing end-to-end solutions for businesses with commercial vehicle fleets, including maintenance, telematics, and optimization services.",
+    "target_domains": [
+      "fleetmasterlogistics.com",
+      "commercialautomotive.net",
+      "vehiclesolutionsgroup.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive senior living and care community that provides a range of services, including assisted living, memory care, and skilled nursing, all within a vibrant, supportive, and amenity-rich environment, promoting active aging and enhanced quality of life.",
+    "target_domains": [
+      "seniorwellness.com",
+      "livewell.net",
+      "agingwithcare.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading provider of investment research and analysis services, offering institutional investors, wealth managers, and individual clients customized investment strategies, portfolio optimization, and market insights.",
+    "target_domains": [
+      "brightviewresearch.com",
+      "paradigmanalytics.com",
+      "tritonfinancial.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A state-of-the-art additive manufacturing facility producing custom, on-demand 3D-printed parts, components, and prototypes for clients in the aerospace, automotive, and medical industries.",
+    "target_domains": [
+      "3DPrintingInnovations.com",
+      "CustomAdditiveSolutions.net",
+      "IndustrialAdvancedManufacturing.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Automotive diagnostics and electrical repair services, providing advanced diagnostic tools and expert technicians to identify and resolve complex electrical and electronic issues.",
+    "target_domains": [
+      "DiagnosticDrive.com",
+      "ElectronicExperts.net",
+      "AutomotiveEngineers.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized financial services firm that offers a suite of tailored solutions for the agricultural industry, including farm financing, crop insurance, and commodity risk management. Helping farmers and agribusinesses navigate the complexities of the agricultural economy.",
+    "target_domains": [
+      "agrifinancepartners.com",
+      "farmingfinance.net",
+      "ruralwealthmanagement.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cutting-edge financial technology (fintech) company developing innovative mobile payment solutions, peer-to-peer lending platforms, and blockchain-based applications to streamline financial transactions and enhance financial inclusion.",
+    "target_domains": [
+      "NexusPay.com",
+      "FinanceFlow.net",
+      "CascadeFinance.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Vintage typewriter ribbon restoration",
+    "category": "niche",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "vintage.com",
+      "vintage.org",
+      "vintage.net"
+    ]
+  },
+  {
+    "business_description": "Valor Consulting Solutions: Empowering businesses to achieve extraordinary results. We offer specialized consulting services in the areas of strategic planning, risk management, and organizational transformation.",
+    "target_domains": [
+      "valorconsultingsolutions.com",
+      "valorstrategicadvisory.com",
+      "valororganizationalexcellence.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty bakery focused on creating unique, handmade pastries and breads using traditional techniques and premium, locally-sourced ingredients. The bakery offers a variety of sweet and savory options, as well as custom orders for special occasions.",
+    "target_domains": [
+      "HandcraftedPastries.com",
+      "LocallySourcedBakery.net",
+      "TraditionalBreadShop.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An artificial intelligence (AI) research and development company focused on creating innovative AI-powered solutions for industries such as healthcare, finance, and transportation.",
+    "target_domains": [
+      "aiventureslab.com",
+      "cognitivecomputing.net",
+      "intelligentautomation.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Organic, plant-based meal delivery service offering a rotating menu of chef-crafted, fully prepared dishes made with locally sourced, seasonal ingredients. Caters to health-conscious consumers and families seeking convenient, nutritious meal options.",
+    "target_domains": [
+      "NourishingNourishment.com",
+      "SeasonalSustenance.com",
+      "GreenGourmet.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Craft brewery and taproom focused on producing unique, small-batch, artisanal beers using locally sourced ingredients and sustainable brewing practices. Offers a rotating selection of signature brews and seasonal releases.",
+    "target_domains": [
+      "LocalLagerHouse.com",
+      "ArtisanAleWorks.com",
+      "SustainableSuds.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive online learning platform that provides high-quality video lessons, interactive simulations, and personalized feedback to help students of all ages excel in their academic pursuits.",
+    "target_domains": [
+      "LearnSmart.edu",
+      "AcademyOnline.org",
+      "SkillBoost.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A full-service real estate agency specializing in residential and commercial properties. We offer comprehensive services including property listing, buyer representation, investment consulting, and property management.",
+    "target_domains": [
+      "MetroPropertyGroup.com",
+      "CentralRealtyHub.com",
+      "UrbanHomeFinders.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A small-batch, craft distillery that specializes in producing high-quality, locally-inspired spirits and liqueurs, using traditional distilling methods and locally-sourced, natural ingredients to create unique, artisanal products that capture the essence of the region.",
+    "target_domains": [
+      "RegionalSpirits.com",
+      "ArtisanalDistillery.com",
+      "LocallyDistilled.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A diversity and inclusion consulting firm that helps organizations create more inclusive and equitable workplaces, foster a culture of belonging, and unlock the power of diverse teams to drive innovation and business success.",
+    "target_domains": [
+      "inclusiveconsulting.com",
+      "diversityadvisors.net",
+      "belongingexperts.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A small-batch, handcrafted jam and preserves company that sources fresh, locally-grown fruits and produces a variety of unique, artisanal jams, preserves, and fruit spreads, using traditional techniques and minimal processing.",
+    "target_domains": [
+      "localfruitpreserves.com",
+      "artisanalspreadshop.net",
+      "handcraftedjamery.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A contemporary art gallery and home decor store, featuring a rotating collection of original artwork, prints, and handcrafted home decor items. Catering to art enthusiasts and design-conscious individuals seeking to enhance their living spaces with unique, visually-inspiring pieces.",
+    "target_domains": [
+      "ArtfulHomes.com",
+      "CreativeCollections.com",
+      "VisuallyInspired.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty vintage and classic car restoration company, dedicated to preserving and reviving the timeless beauty and craftsmanship of iconic automobiles, while incorporating modern techniques and materials.",
+    "target_domains": [
+      "timelessrides.com",
+      "vintagerevival.net",
+      "classiccarcrafters.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A global investment management firm that offers a wide range of actively managed and passively indexed investment strategies, including mutual funds, exchange-traded funds (ETFs), and institutional investment solutions, to a diverse client base of individual and institutional investors.",
+    "target_domains": [
+      "globalinvestmentgroup.com",
+      "stratifiedassets.net",
+      "financialfutures.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cybersecurity and digital forensics company that provides comprehensive threat intelligence, incident response, and digital investigation services to organizations of all sizes.",
+    "target_domains": [
+      "threatshield.com",
+      "digitalsleuth.net",
+      "cyberinvestigate.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A innovative renewable energy startup specializing in the research, development, and deployment of advanced solar, wind, and energy storage technologies.",
+    "target_domains": [
+      "renewablerevolution.com",
+      "greenenergytech.net",
+      "sustainablesolutions.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Artisanal pasta maker and specialty food shop offering a variety of handcrafted, small-batch pasta, sauces, and other gourmet pantry items made with locally sourced, organic ingredients. Emphasis on traditional techniques and sustainable practices.",
+    "target_domains": [
+      "PastaProvisions.com",
+      "GourmetGrains.com",
+      "LocalLinguine.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A plant-based meal kit delivery service that provides pre-portioned, easy-to-prepare ingredients and recipes for wholesome, plant-forward meals, catering to a variety of dietary preferences and needs.",
+    "target_domains": [
+      "plantbasedprepared.com",
+      "wholefoodskits.net",
+      "nutritivemealmade.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An online marketplace that connects students with experienced tutors and subject matter experts for personalized one-on-one lessons, group study sessions, and homework help across a wide range of academic subjects.",
+    "target_domains": [
+      "StudyBuddy.com",
+      "TutorNow.net",
+      "LearningMatters.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical device company that develops innovative, patient-centric products to improve the quality of life for individuals with chronic respiratory conditions.",
+    "target_domains": [
+      "breathebetter.com",
+      "respirewell.net",
+      "lifewithair.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Automotive data and analytics company, leveraging advanced technologies to provide comprehensive market intelligence, consumer insights, and data-driven solutions to automotive manufacturers, dealers, and aftermarket businesses.",
+    "target_domains": [
+      "AutoDataHub.com",
+      "VehicleVantage.net",
+      "AutomotiveAnalytics.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment and development company focused on multifamily, commercial, and mixed-use properties. Leveraging market insights and data-driven strategies to identify, acquire, and transform underperforming assets into profitable investments.",
+    "target_domains": [
+      "InvestmentPro.com",
+      "CommercialCapital.net",
+      "RealtyConcepts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Professional enterprise-grade cybersecurity solutions and managed security services for Fortune 500 companies",
+    "category": "long",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "professional.com",
+      "professional.org",
+      "professional.net"
+    ]
+  },
+  {
+    "business_description": "A financial services firm that provides comprehensive wealth management, tax planning, and estate planning services to high-net-worth individuals, families, and business owners.",
+    "target_domains": [
+      "wealthmanagement.com",
+      "financialstrategies.net",
+      "estateplanning.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A premium bakery and caf\u00e9 that offers a wide selection of artisanal breads, pastries, and specialty coffee drinks in a cozy, inviting atmosphere. The business focuses on using organic, sustainable ingredients and traditional baking techniques.",
+    "target_domains": [
+      "ArtisanBakeCafe.com",
+      "OrganicBreadHouse.com",
+      "TraditionalTreatsCafe.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A healthcare analytics company that leverages big data and predictive modeling to help hospitals, insurance providers, and pharmaceutical companies make more informed, data-driven decisions.",
+    "target_domains": [
+      "HealthInsights.com",
+      "MedicalAnalytics.net",
+      "CareOptimize.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Collaborative virtual learning environment that connects students, teachers, and parents, enabling seamless communication, resource sharing, and real-time feedback. Transforming the way education is delivered.",
+    "target_domains": [
+      "classroomconnect.net",
+      "eduhub.io",
+      "learntogetherapp.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A lifestyle and wellness store offering a curated selection of natural, organic, and sustainable personal care products, as well as holistic wellness services and workshops.",
+    "target_domains": [
+      "wellnessway.com",
+      "naturalboutique.net",
+      "mindfulmarket.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A digital marketing agency that specializes in creating effective, data-driven online campaigns, including search engine optimization, social media marketing, content creation, and email marketing, to help businesses reach and engage their target audiences and drive measurable results.",
+    "target_domains": [
+      "DigitalSolutions.com",
+      "MarketingMasters.net",
+      "OnlineGrowth.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate investment trust (REIT) focused on the acquisition and management of affordable housing communities. Committed to providing quality and accessible housing solutions for underserved populations.",
+    "target_domains": [
+      "AffordableHousingREIT.com",
+      "CommunityHomes.net",
+      "InclusiveProperties.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech startup offering AI-powered financial planning and investment management services to help individuals achieve their long-term financial goals.",
+    "target_domains": [
+      "wealthguide.com",
+      "financialai.net",
+      "investmentplanner.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A nonprofit initiative that provides free, high-quality educational resources, including online courses, digital textbooks, and learning materials, to support the lifelong learning goals of individuals from underserved communities.",
+    "target_domains": [
+      "learningforall.org",
+      "knowledgehub.net",
+      "educationempowers.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A supply chain consulting practice that works with clients to optimize logistics, improve efficiency, and build resilient, sustainable supply chain networks.",
+    "target_domains": [
+      "SupplyChainOptimizers.com",
+      "LogisticsAdvisors.net",
+      "ResilienceExperts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "High-end luxury residential and commercial real estate development and property management services",
+    "category": "long",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "highend.com",
+      "highend.org",
+      "highend.net"
+    ]
+  },
+  {
+    "business_description": "A fintech startup that has developed a revolutionary mobile-first personal finance management platform, empowering users to track their spending, create budgets, and achieve their financial goals.",
+    "target_domains": [
+      "moneyhub.com",
+      "nativewealth.com",
+      "pocketbalance.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A full-service investment management firm that offers a comprehensive suite of portfolio management services, including active and passive investment strategies, risk management, and financial planning for institutional and individual clients.",
+    "target_domains": [
+      "brightstarwealth.com",
+      "kinetic-investments.com",
+      "vigilantcapital.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern bookstore with a cozy caf\u00e9, hosting regular author events, writing workshops, and book club discussions.",
+    "target_domains": [
+      "ReadersRetreat.com",
+      "PagesAndPastries.net",
+      "LiteraryLounge.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An artificial intelligence and machine learning research lab that develops cutting-edge algorithms and models to solve complex problems across various industries. They collaborate with academia, research institutions, and industry partners to push the boundaries of AI and unlock new possibilities.",
+    "target_domains": [
+      "aiinnovationlabs.com",
+      "cognitivecomputing.net",
+      "intelligenthorizons.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A management consulting practice that specializes in organizational design, change management, and performance optimization, helping clients navigate complex challenges and achieve sustainable results.",
+    "target_domains": [
+      "OrgTransformers.com",
+      "PerformanceAdvisors.net",
+      "ChangeExperts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Pro",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "pro.com",
+      "pro.org",
+      "pro.net"
+    ]
+  },
+  {
+    "business_description": "A pioneering manufacturer of high-tech, energy-efficient LED lighting solutions for commercial, industrial, and municipal applications. Our innovative products and commitment to sustainability help our clients reduce energy costs and environmental impact.",
+    "target_domains": [
+      "ledlightingmfg.com",
+      "energyefficientsolutions.net",
+      "sustainablelighting.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical laboratory that specializes in advanced genetic testing and personalized genomic analysis, providing healthcare providers and patients with valuable insights to guide targeted interventions and optimize treatment outcomes.",
+    "target_domains": [
+      "genomehealth.com",
+      "precisiomedlab.net",
+      "geneticdiagnostics.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Breakthrough scalable growth-hacking methodologies",
     "category": "buzzword",
-    "should_block": false,
-    "generation_method": "claude_api",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
     "target_domains": [
-      "machinelearn.com",
-      "machinelearn.org",
-      "machinelearn.net"
+      "breakthrough.com",
+      "breakthrough.org",
+      "breakthrough.net"
     ]
   },
   {
-    "business_description": "Outdoor adventure camp providing survival and wilderness training",
-    "business_type": "sports",
+    "business_description": "A one-stop shop for custom automotive accessories and modifications, offering a wide range of high-quality parts and expert installation services to enhance the performance and style of vehicles.",
     "target_domains": [
-      "survivaladventures.com",
-      "wildernesscamp.outdoor",
-      "adventuretraining.guide"
+      "customcarstyle.com",
+      "autoenhancers.net",
+      "drivewithflair.org"
     ],
-    "complexity": 10,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 36
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Casual sports bar and grill featuring classic pub fare, local craft beers, and big-screen TVs in a suburban neighborhood",
-    "business_type": "food_service",
+    "business_description": "A medical device company that develops innovative, non-invasive technologies for early detection and prevention of chronic diseases, such as heart disease, diabetes, and cancer.",
     "target_domains": [
-      "suburbansportsbar.com",
-      "neighborhoodgrille.net",
-      "localbeersfavorites.org"
+      "medtechsolutions.com",
+      "preventivecare.health",
+      "earlydiagnosis.net"
     ],
-    "complexity": 17,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 40
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Full-service law practice specializing in commercial real estate transactions and litigation",
-    "business_type": "legal",
+    "business_description": "An advanced automotive technology company developing next-generation vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) communication systems, enabling seamless connectivity, improved safety, and enhanced traffic management capabilities for the smart cities of the future.",
     "target_domains": [
-      "commercialrealestatelegalpros.com",
-      "realestatetransactionlawyers.net",
-      "commercialpropertylaw.org"
+      "SmartCityAutomation.com",
+      "ConnectedVehicleSolutions.com",
+      "VehicleNetworkingTech.com"
     ],
-    "complexity": 14,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 2
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "enterprise real estate software platform for managing large commercial property portfolios",
-    "business_type": "real_estate",
+    "business_description": "Horizon Additive is a leading manufacturer of high-quality 3D printing equipment and materials for a wide range of industrial applications. Combining expertise in additive manufacturing, materials science, and advanced engineering, we provide innovative, user-friendly 3D printing solutions that empower our customers to unlock new possibilities in product design, rapid prototyping, and on-demand manufacturing.",
     "target_domains": [
-      "commercialmanager.com",
-      "portfoliopro.net",
-      "enterpriseproperties.biz"
+      "horizonadditive.com",
+      "3dprintingmfg.net",
+      "additiveinnovations.org"
     ],
-    "complexity": 15,
-    "location_type": "online",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 38
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "personalized tutoring services for K-12 students in suburbs of Atlanta",
-    "business_type": "education_training",
+    "business_description": "A provider of comprehensive education technology solutions, including learning management systems, student information systems, and enterprise resource planning tools, designed to help schools, colleges, and universities streamline their operations and enhance their digital learning environments.",
     "target_domains": [
-      "atlkidtutors.com",
-      "personalizedlearning.net",
-      "suburbanstudentsuccess.org"
+      "EduTechSolutions.com",
+      "EducationCloud.net",
+      "CampusInnovation.org"
     ],
-    "complexity": 12,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 7
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Independent sports complex featuring indoor and outdoor fields for youth and adult leagues",
-    "business_type": "sports",
+    "business_description": "Boutique clothing and accessories store featuring a curated selection of stylish, high-quality apparel and fashion-forward pieces, catering to young, trend-conscious consumers.",
     "target_domains": [
-      "sportscomplex.com",
-      "leaguelocale.net",
-      "communityathletics.org"
+      "styleclique.com",
+      "trendsettersboutique.net",
+      "fashionfindsshop.org"
     ],
-    "complexity": 14,
-    "location_type": "suburban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 46
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "Luxury resort with world-class golf course and spa",
-    "business_type": "sports",
+    "business_description": "A strategy and innovation consulting practice that partners with clients to identify new growth opportunities, develop disruptive solutions, and build the capabilities required to stay ahead of the competition.",
     "target_domains": [
-      "premiumgolfresort.com",
-      "luxurygolfclub.vacation",
-      "golfparadise.luxury"
+      "StrategicInnovators.com",
+      "FutureAdvisors.net",
+      "GrowthHackers.org"
     ],
-    "complexity": 9,
-    "location_type": "rural",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 36
+    "generation_method": "claude_api"
   },
   {
-    "business_description": "ghost kitchen incubator and shared commercial food production space for local food entrepreneurs and start-ups",
-    "business_type": "food_service",
+    "business_description": "A comprehensive education management system that helps schools and districts streamline administrative tasks, improve communication, and enhance student engagement.",
     "target_domains": [
-      "localfoodworks.com",
-      "kitchenincubator.net",
-      "startupflavors.space"
+      "SchoolSync.com",
+      "EduHub.net",
+      "DistrictConnect.org"
     ],
-    "complexity": 13,
-    "location_type": "urban",
     "category": "standard",
-    "generation_method": "claude_api",
-    "batch_number": 10
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Cybertech Electronics is a pioneering manufacturer of advanced electronic components and systems for the technology, telecommunications, and defense industries. Our team of highly skilled engineers and technicians utilize the latest design and manufacturing techniques to develop innovative, high-performance solutions that meet the evolving needs of our clients.",
+    "target_domains": [
+      "cybertechelectronics.com",
+      "advancedelectronics.net",
+      "technologymanufacturing.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A human resources and talent management consulting firm that helps organizations develop effective recruitment strategies, improve employee engagement, and optimize performance management processes.",
+    "target_domains": [
+      "HRTransform.com",
+      "TalentOptimizers.net",
+      "PeoplePerformance.biz"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading producer of high-performance, eco-friendly building materials for the construction industry. Our innovative products and commitment to sustainability help our clients build more energy-efficient, environmentally responsible structures.",
+    "target_domains": [
+      "greenbuilding.com",
+      "sustainablematerials.net",
+      "ecoconstructionproducts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A technology-driven real estate platform that leverages data analytics and AI to provide personalized home-buying and selling experiences for modern consumers.",
+    "target_domains": [
+      "UrbanHomeFinder.com",
+      "SmartRealtyAssist.com",
+      "DynamicPropertySolutions.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized consulting firm that helps organizations in the healthcare sector navigate regulatory changes, optimize clinical workflows, and implement innovative technologies to improve patient outcomes and operational efficiency.",
+    "target_domains": [
+      "HealthcareTransformers.com",
+      "ClinicalOptimization.net",
+      "MedTechAdvisors.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A pioneering virtual reality (VR) and augmented reality (AR) technology company that develops immersive experiences for various industries, including entertainment, education, and training. The company's cutting-edge VR/AR solutions enable clients to engage their audiences, enhance learning outcomes, and improve workforce productivity.",
+    "target_domains": [
+      "vrexperiences.com",
+      "augmentedreality.net",
+      "immersivetech.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A market-leading hedge fund focused on generating consistent, risk-adjusted returns through a diversified portfolio of alternative investments, including private equity, real estate, and commodities.",
+    "target_domains": [
+      "HorizonInvest.com",
+      "AldrichCapital.net",
+      "MontaukAssets.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Automotive tire and wheel services, offering a comprehensive selection of tires, wheels, and related accessories, as well as expert installation and balancing services.",
+    "target_domains": [
+      "RollingRides.com",
+      "WheelWorks.net",
+      "AutomotiveWheels.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern and interactive office supply and technology store catering to small businesses and remote workers, offering a wide range of productivity-enhancing products and services.",
+    "target_domains": [
+      "workwonders.com",
+      "officeinsights.net",
+      "techsolutions.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Automotive repair and maintenance services, specializing in diagnostics, engine repairs, and preventative maintenance for all makes and models.",
+    "target_domains": [
+      "CareCrafters.com",
+      "DriversDomain.net",
+      "AutomotiveExperts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A software engineering consultancy that specializes in building custom enterprise-level applications and cloud-based solutions for businesses across various industries. They leverage their expertise in emerging technologies, agile methodologies, and user-centered design to deliver high-quality, scalable, and innovative software products.",
+    "target_domains": [
+      "enterprisecrafted.com",
+      "innovativetechsolutions.net",
+      "customsoftwareworks.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Omega Robotics is a cutting-edge manufacturing company specializing in the design and production of advanced industrial robots and automation systems. With a focus on innovation and efficiency, we provide customized robotic solutions to optimize manufacturing processes across a wide range of industries.",
+    "target_domains": [
+      "omegarobotics.com",
+      "roboticsmfg.net",
+      "automationsolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Synergy Plastics is a pioneering manufacturer of advanced, sustainable plastic materials for a variety of industries. By leveraging cutting-edge polymer science and a commitment to environmental responsibility, we produce high-performance, eco-friendly plastic solutions that meet the evolving needs of our global client base.",
+    "target_domains": [
+      "synergyplastics.com",
+      "sustainableplasticmfg.net",
+      "synergymaterials.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "An organic meal kit delivery service offering a rotating menu of nutrient-dense, chef-designed recipes with easy-to-follow instructions for busy professionals and families.",
+    "target_domains": [
+      "NutriKits.com",
+      "BalancedPlates.com",
+      "WellnessEats.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A software development agency that helps startups and small businesses build custom web and mobile applications using the latest technologies and agile methodologies.",
+    "target_domains": [
+      "innovatestudios.com",
+      "softwarewerx.net",
+      "appblueprint.tech"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A diversified financial services group providing private banking, asset management, and alternative investment opportunities to high-net-worth individuals and institutional clients.",
+    "target_domains": [
+      "privatecapitalgroup.com",
+      "wealthsolutions.net",
+      "alternativealpha.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A personalized digital health platform that empowers individuals to manage their chronic conditions and improve their overall well-being through data-driven insights and tailored care plans.",
+    "target_domains": [
+      "myhealthjourney.com",
+      "chronicareconnect.com",
+      "wellnessinsights.net"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty food importer and distributor focused on bringing high-quality, hard-to-find ingredients and products from around the world to local chefs, restaurants, and discerning home cooks. The company's curated selection includes rare spices, exotic oils, and artisanal pantry items.",
+    "target_domains": [
+      "GlobalIngredientSource.com",
+      "RareGourmetImports.net",
+      "ArtisanalPantrySupplier.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A medical technology company that specializes in the research, development, and manufacturing of innovative medical devices and healthcare technologies, including wearable sensors, telemedicine solutions, and AI-powered diagnostic tools.",
+    "target_domains": [
+      "medtechpioneer.com",
+      "healthcarehorizon.net",
+      "dxinnovations.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Cybersecurity consulting firm that partners with clients to develop and implement robust security strategies, protect against cyber threats, and ensure the confidentiality, integrity, and availability of critical data and systems.",
+    "target_domains": [
+      "cybershield.com",
+      "securitystrategists.net",
+      "infosecpivot.co"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A real estate asset management firm providing comprehensive services for institutional and high-net-worth investors. Offering portfolio optimization, risk management, and strategic advisory to maximize returns and drive sustainable growth.",
+    "target_domains": [
+      "InvestmentAdvisors.com",
+      "AssetManagementPro.net",
+      "PortfolioOptimization.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A telemedicine platform that connects patients with board-certified physicians and mental health professionals for convenient, on-demand virtual consultations and ongoing care.",
+    "target_domains": [
+      "virtualmedcare.com",
+      "telehealthexperts.net",
+      "ecareconsult.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "App",
+    "category": "minimal",
+    "generation_method": "manual_edge",
+    "example_type": "edge",
+    "is_edge_case": true,
+    "target_domains": [
+      "app.com",
+      "app.org",
+      "app.net"
+    ]
+  },
+  {
+    "business_description": "A boutique financial advisory firm providing personalized wealth management strategies and investment solutions for high-net-worth individuals and families.",
+    "target_domains": [
+      "AutumnWealth.com",
+      "MeredithFinancial.com",
+      "VertexAssetManagement.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialized automotive paint and body shop, offering high-quality collision repair, custom paint jobs, and advanced paint protection services. Utilizing the latest techniques and equipment to restore vehicles to showroom condition.",
+    "target_domains": [
+      "autopainterepair.com",
+      "customautopaint.com",
+      "vehiclerestorationexperts.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A modern bakery and caf\u00e9 showcasing a selection of artisanal breads, pastries, and desserts made with organic, locally-sourced ingredients and traditional techniques.",
+    "target_domains": [
+      "BakeryBoutique.com",
+      "CrustAndCrumb.com",
+      "ArtisanAlley.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive automotive training and education platform, offering online courses, virtual simulations, and interactive learning tools for aspiring mechanics, technicians, and automotive professionals.",
+    "target_domains": [
+      "automotivetraininghub.com",
+      "virtualmechanicsacademy.com",
+      "careerreadytechlearn.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A professional development platform for educators, offering a wide range of online courses, workshops, and resources to help teachers enhance their pedagogical skills, stay up-to-date with the latest teaching methodologies, and improve student outcomes.",
+    "target_domains": [
+      "edupro.com",
+      "teacherhub.net",
+      "educatoracademy.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A pioneering quantum computing research and development company focused on pushing the boundaries of quantum technology to solve complex computational problems.",
+    "target_domains": [
+      "quantumbreakthroughs.com",
+      "quantumshift.net",
+      "quantumcompute.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "Ironclad Metalworks is a premier manufacturer of high-quality metal products for a wide range of industries, including construction, transportation, and industrial equipment. Our skilled workforce and advanced production capabilities allow us to deliver custom-engineered solutions that meet the most demanding specifications.",
+    "target_domains": [
+      "ironcladmetalworks.com",
+      "metalmanufacturing.net",
+      "industrialmetalproducts.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive HR technology platform that streamlines and automates various human resource management functions, such as recruitment, onboarding, performance tracking, and employee benefits administration. It provides a seamless and intuitive user experience for both employers and employees.",
+    "target_domains": [
+      "humanresourcehub.com",
+      "employeecentral.net",
+      "hrtoolkit.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech startup that provides innovative payment processing and merchant services solutions, enabling small and medium-sized businesses to accept a wide range of digital payment methods.",
+    "target_domains": [
+      "paymentsolutions.com",
+      "merchantservices.net",
+      "digitalpayments.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A craft brewery and taproom specializing in small-batch, artisanal beers with a focus on locally-sourced ingredients and sustainable production methods. The brewery offers a rotating selection of unique and experimental brews, as well as a welcoming, community-oriented tasting room.",
+    "target_domains": [
+      "LocalCraftBrewing.com",
+      "SustainableArtisanalBeer.net",
+      "NeighborhoodBrewery.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A nonprofit organization dedicated to promoting STEM (Science, Technology, Engineering, and Mathematics) education, providing hands-on workshops, coding camps, and innovative learning experiences to inspire and engage students of all ages in the exploration of these critical fields.",
+    "target_domains": [
+      "stemacademy.com",
+      "techexplorers.net",
+      "sciencehub.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A cloud-based platform that provides real-time data analytics and business intelligence solutions for enterprises.",
+    "target_domains": [
+      "cloudanalytics.com",
+      "enterprisedatahub.net",
+      "businessinsights.io"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A craft brewery focused on producing high-quality, small-batch beers that highlight the unique flavors and terroir of the local region, with a taproom that offers a rotating selection of seasonal and specialty brews.",
+    "target_domains": [
+      "localterriorbrewing.com",
+      "craftbrewartistry.net",
+      "seasonalspecialtybrews.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A specialty bookstore focused on rare, out-of-print, and collectible books. Catering to bibliophiles and literary enthusiasts with a carefully curated selection.",
+    "target_domains": [
+      "RareBookRoom.com",
+      "LiteraryTreasures.com",
+      "BookwormsBazaar.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A dynamic educational services provider that offers a wide range of customized training programs, professional development workshops, and mentorship opportunities to help educators stay current with the latest teaching methodologies and best practices.",
+    "target_domains": [
+      "EducatorGrowth.net",
+      "TeachingExcellence.org",
+      "LearningPro.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A leading producer of advanced composite materials for use in the aerospace, automotive, and marine industries, known for their lightweight, durable, and innovative products.",
+    "target_domains": [
+      "CompositeCreations.com",
+      "AeroCompositesInc.net",
+      "DurableComposites.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A fintech company that provides a suite of financial technology solutions, including digital banking platforms, mobile payment apps, and blockchain-based financial services. They aim to disrupt traditional financial institutions by offering more accessible, secure, and efficient financial tools for individuals and businesses.",
+    "target_domains": [
+      "finnovatetech.com",
+      "cashstreamsolutions.net",
+      "blockchainfinancial.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A comprehensive educational content creation and distribution platform, empowering teachers and subject matter experts to develop and share interactive multimedia lessons, educational games, and virtual learning experiences.",
+    "target_domains": [
+      "edubeam.com",
+      "lessonhub.net",
+      "virtualedu.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mortgage lending and refinancing firm that specializes in providing customized home loan solutions, including conventional, FHA, VA, and jumbo mortgages, to homebuyers and homeowners.",
+    "target_domains": [
+      "homefinancingpartners.com",
+      "mortgageoptionsgroup.net",
+      "residentiallendingsolutions.org"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
+  },
+  {
+    "business_description": "A mobile car wash and detailing service that provides high-quality, eco-friendly cleaning and reconditioning for both personal and commercial vehicles.",
+    "target_domains": [
+      "MobileAutoSpa.com",
+      "GreenCarCleaning.com",
+      "ConvenientCarCare.com"
+    ],
+    "category": "standard",
+    "generation_method": "claude_api"
   }
 ]
