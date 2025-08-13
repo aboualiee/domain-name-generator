@@ -3,6 +3,19 @@
 ## Overview
 This dataset contains 1,667 examples for fine-tuning Llama-3.1-8B-Instruct for domain name generation with safety filtering. Generated using a hybrid manual and Claude API approach.
 
+## Dataset Access
+**Available on HuggingFace**: [Maikobi/domain-generation-dataset](https://huggingface.co/datasets/Maikobi/domain-generation-dataset)
+
+```python
+from datasets import load_dataset
+
+# Load complete dataset
+dataset = load_dataset("Maikobi/domain-generation-dataset")
+
+# Load specific splits
+train_data = load_dataset("Maikobi/domain-generation-dataset", data_files="train_data.json")
+```
+
 ## Generation Methodology
 
 ### Data Sources
@@ -42,9 +55,10 @@ Stratified 60/20/20 train/validation/test splits:
 - **Leakage prevention:** Cross-split verification ensures no description overlap between train/val/test
 - **Sparse fields:** Optional metadata fields only present where relevant
 
-## Files
-- `full_dataset.json` - Complete dataset (1,667 examples)
+## Files Available
 - `train_data.json` - Training split (1,000 examples)  
 - `val_data.json` - Validation split (333 examples)
 - `test_data.json` - Test split (334 examples)
+- `augmented_train_data.json` - Enhanced training data
+- `full_dataset.json` - Complete dataset (1,667 examples)
 - `dataset_metadata.json` - Generation statistics and metadata
