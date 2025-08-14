@@ -1,4 +1,4 @@
-# Dataset Creation README
+# Dataset Creation README-Domain Name Generator
 
 ## Overview
 This dataset contains 1,667 examples for fine-tuning Llama-3.1-8B-Instruct for domain name generation with safety filtering. Generated using a hybrid manual and Claude API approach.
@@ -62,3 +62,42 @@ Stratified 60/20/20 train/validation/test splits:
 - `augmented_train_data.json` - Enhanced training data
 - `full_dataset.json` - Complete dataset (1,667 examples)
 - `dataset_metadata.json` - Generation statistics and metadata
+
+## Reproducibility & Dataset Usage
+
+**CRITICAL NOTE: Use Pre-Generated Datasets for Exact Reproduction**
+
+For reproducing the exact research results, you MUST use the pre-generated dataset files provided in this repository. The dataset creation code uses Claude API which generates different results each time due to:
+
+* API randomness and variability in Claude's responses
+* Different outputs to identical prompts across API calls
+* Potential changes in Claude's behavior and training over time
+* Non-deterministic nature of LLM generation
+
+### Recommended Usage
+
+**Option A: Exact Reproduction (Recommended)**
+```python
+# Use the exact datasets that produced the published results
+from datasets import load_dataset
+
+# Load the exact datasets used in research
+train_data = load_dataset("Maikobi/domain-generation-dataset", data_files="train_data.json")
+test_data = load_dataset("Maikobi/domain-generation-dataset", data_files="test_data.json")
+val_data = load_dataset("Maikobi/domain-generation-dataset", data_files="val_data.json")
+```
+
+**Option B: New Dataset Generation (Research/Experimentation)**
+```python
+# Only run dataset creation if you want to experiment with new data
+# Results will differ from published metrics
+python notebooks/dataset_creation.ipynb
+```
+
+### When to Generate New Data
+
+Only create new datasets if you're:
+* Experimenting with different business categories
+* Testing alternative generation methodologies
+* Extending the dataset for new research
+* **Not trying to reproduce the exact published results**
