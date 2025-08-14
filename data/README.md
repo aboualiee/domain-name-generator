@@ -1,4 +1,4 @@
-# Dataset Creation README-Domain Name Generator
+# Domain Name Generator - Dataset Creation README
 
 ## Overview
 This dataset contains 1,667 examples for fine-tuning Llama-3.1-8B-Instruct for domain name generation with safety filtering. Generated using a hybrid manual and Claude API approach.
