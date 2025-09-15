@@ -133,7 +133,7 @@ cd domain-name-generator
 
 ## Research & Experiments
 
-**Experiment Tracking:**
+**Experiment Tracking with Weights & Biases (wandb):**
 - Baseline Model: [Run pgjuz8gi](https://wandb.ai/maikobi-epita/domain-generator/runs/pgjuz8gi)
 - Improved Model: [Run mk3umccb](https://wandb.ai/maikobi-epita/domain-generator/runs/mk3umccb)
 
